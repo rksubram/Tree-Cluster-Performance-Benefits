@@ -1,891 +1,891 @@
 #SampleID,type_sample,IBD
-1939.122059	,stool,	True
-1939.122058	,stool,	True
-1939.SKBTI.0568	,biopsy,	False
-1939.122050	,stool,	True
-1939.SKBTI.1186	,biopsy,	False
-1939.SKBTI.1246	,biopsy,	False
-1939.SKBTI.1245	,biopsy,	False
-1939.SKBTI.1244	,biopsy,	True
-1939.121954.a	,stool,	True
-1939.SKBTI011	,biopsy,	True
-1939.MGH101446	,biopsy,	True
-1939.SKBTI.1249	,biopsy,	False
-1939.SKBTI.1248	,biopsy,	True
-1939.SKBTI.0640	,biopsy,	False
-1939.SKBTI.1023	,biopsy,	False
-1939.122163.a	,stool,	True
-1939.122163.b	,stool,	True
-1939.SKBTI.1171	,biopsy,	True
-1939.SKBTI.0973	,biopsy,	True
-1939.SKBTI.1320	,biopsy,	True
-1939.SKBTI.0599	,biopsy,	False
-1939.SKBTI.1170	,biopsy,	False
-1939.SKBTI.1103	,biopsy,	True
-1939.122164.b	,stool,	True
-1939.SKBTI.1063	,biopsy,	True
-1939.SKBTI.1060	,biopsy,	True
-1939.SKBTI.1067	,biopsy,	True
-1939.122164.a	,stool,	True
-1939.SKBTI.1065	,biopsy,	True
-1939.SKBTI.0151	,biopsy,	True
-1939.SKBTI.1144	,biopsy,	True
-1939.SKBTI.1145	,biopsy,	True
-1939.SKBTI.1069	,biopsy,	False
-1939.SKBTI.1068	,biopsy,	False
-1939.SKBTI.1140	,biopsy,	False
-1939.SKBTI.1141	,biopsy,	False
-1939.SKBTI.1142	,biopsy,	True
-1939.SKBTI.1295	,biopsy,	True
-1939.SKBTI.0942	,biopsy,	True
-1939.122119.a	,stool,	True
-1939.SKBTI.1104	,biopsy,	False
-1939.SKBTI.0949	,biopsy,	True
-1939.SKBTI.0867	,biopsy,	True
-1939.SKBTI.1298	,biopsy,	False
-1939.SKBTI.1325	,biopsy,	True
-1939.SKBTI025	,biopsy,	True
-1939.SKBTI.1098	,biopsy,	True
-1939.SKBTI.1099	,biopsy,	True
-1939.SKBTI.1097	,biopsy,	True
-1939.SKBTI.1094	,biopsy,	True
-1939.122113.a	,stool,	True
-1939.SKBTI.0592	,biopsy,	True
-1939.SKBTI.1090	,biopsy,	False
-1939.122113.b	,stool,	True
-1939.SKBTI.1315	,biopsy,	False
-1939.100096	,stool,	True
-1939.100095	,stool,	True
-1939.MGH109812	,biopsy,	True
-1939.121386	,stool,	True
-1939.121387	,stool,	True
-1939.100091	,stool,	True
-1939.SKBTI.1342	,biopsy,	False
-1939.121389	,stool,	True
-1939.100099	,stool,	True
-1939.SKBTI044	,biopsy,	False
-1939.MGH104316.b	,biopsy,	True
-1939.SKBTI036	,biopsy,	False
-1939.SKBTI058	,biopsy,	True
-1939.SKBTI.0482	,biopsy,	True
-1939.100068	,stool,	True
-1939.SKBTI.0486	,biopsy,	True
-1939.SKBTI.0487	,biopsy,	True
-1939.SKBTI.0485	,biopsy,	False
-1939.100062	,stool,	True
-1939.100060	,stool,	True
-1939.SKBTI.0489	,biopsy,	False
-1939.SKBTI.0766	,biopsy,	True
-1939.121314	,stool,	True
-1939.SKBTI.0311	,biopsy,	True
-1939.121311	,stool,	True
-1939.121310	,stool,	True
-1939.121313	,stool,	True
-1939.121312	,stool,	True
-1939.SKBTI.1022	,biopsy,	True
-1939.120153	,stool,	False
-1939.SKBTI.0648	,biopsy,	False
-1939.120155	,stool,	False
-1939.120156	,stool,	False
-1939.120157	,stool,	False
-1939.SKBTI.0504	,biopsy,	True
-1939.SKBTI.1336	,biopsy,	True
-1939.SKBTI.0508	,biopsy,	False
-1939.SKBTI028	,biopsy,	True
-1939.SKBTI.0198.a	,biopsy,	True
-1939.SKBTI048	,biopsy,	True
-1939.SKBTI.1193	,biopsy,	False
-1939.SKBTI.0154.a	,biopsy,	True
-1939.SKBTI.1192	,biopsy,	False
-1939.SKBTI.1271	,biopsy,	False
-1939.SKBTI.1284	,biopsy,	True
-1939.SKBTI.0148	,biopsy,	True
-1939.SKBTI068	,biopsy,	True
-1939.SKBTI.0262.a	,biopsy,	True
-1939.SKBTI043	,biopsy,	True
-1939.SKBTI016	,biopsy,	True
-1939.SKBTI029	,biopsy,	False
-1939.SKBTI.0262.b	,biopsy,	True
-1939.SKBTI.0161	,biopsy,	True
-1939.SKBTI.0160	,biopsy,	True
-1939.SKBTI.0163	,biopsy,	True
-1939.SKBTI.0162	,biopsy,	True
-1939.SKBTI.0513	,biopsy,	True
-1939.SKBTI.0169	,biopsy,	False
-1939.SKBTI.0168	,biopsy,	True
-1939.SKBTI071	,biopsy,	True
-1939.SKBTI.0218	,biopsy,	False
-1939.SKBTI.0217	,biopsy,	True
-1939.SKBTI.0216	,biopsy,	True
-1939.SKBTI.0215	,biopsy,	True
-1939.SKBTI.0214	,biopsy,	True
-1939.SKBTI.1053	,biopsy,	True
-1939.SKBTI.0212	,biopsy,	True
-1939.SKBTI.1205	,biopsy,	False
-1939.SKBTI.0210	,biopsy,	True
-1939.SKBTI092.b	,biopsy,	True
-1939.SKBTI.0563	,biopsy,	False
-1939.SKBTI.0189	,biopsy,	True
-1939.SKBTI.0188	,biopsy,	False
-1939.SKBTI.0187	,biopsy,	False
-1939.SKBTI.0186	,biopsy,	False
-1939.SKBTI.0184	,biopsy,	True
-1939.SKBTI.0182	,biopsy,	False
-1939.SKBTI.0181	,biopsy,	False
-1939.SKBTI.0180	,biopsy,	True
-1939.SKBTI.1349	,biopsy,	True
-1939.SKBTI.1085	,biopsy,	False
-1939.SKBTI.1346	,biopsy,	True
-1939.SKBTI.0268	,biopsy,	True
-1939.SKBTI.0269	,biopsy,	False
-1939.MGH100896.b	,biopsy,	True
-1939.SKBTI.0266	,biopsy,	False
-1939.SKBTI.0267	,biopsy,	True
-1939.SKBTI.0704	,biopsy,	True
-1939.SKBTI.0995	,biopsy,	True
-1939.SKBTI089.b	,biopsy,	False
-1939.SKBTI.1345	,biopsy,	True
-1939.SKBTI.1062	,biopsy,	True
-1939.SKBTI.1229	,biopsy,	True
-1939.SKBTI.0972	,biopsy,	False
-1939.SKBTI.1228	,biopsy,	True
-1939.121457	,stool,	True
-1939.121454	,stool,	True
-1939.121455	,stool,	True
-1939.121452	,stool,	True
-1939.SKBTI.0982	,biopsy,	False
-1939.121450	,stool,	True
-1939.121451	,stool,	True
-1939.SKBTI.1341	,biopsy,	False
-1939.SKBTI.0989	,biopsy,	True
-1939.SKBTI.0988	,biopsy,	True
-1939.SKBTI.1291	,biopsy,	True
-1939.SKBTI.1217	,biopsy,	True
-1939.SKBTI.1293	,biopsy,	False
-1939.SKBTI.1061	,biopsy,	True
-1939.SKBTI.0865	,biopsy,	True
-1939.SKBTI.0869	,biopsy,	True
-1939.SKBTI.0971	,biopsy,	True
-1939.SKBTI.1314	,biopsy,	False
-1939.SKBTI.1310	,biopsy,	False
-1939.SKBTI.1076	,biopsy,	True
-1939.SKBTI.1191	,biopsy,	True
-1939.SKBTI.1197	,biopsy,	True
-1939.SKBTI.1196	,biopsy,	True
-1939.SKBTI.1195	,biopsy,	True
-1939.SKBTI.1194	,biopsy,	False
-1939.SKBTI.1235	,biopsy,	False
-1939.SKBTI.0241	,biopsy,	False
-1939.SKBTI.0943	,biopsy,	True
-1939.SKBTI.0242	,biopsy,	True
-1939.SKBTI.1129	,biopsy,	True
-1939.SKBTI055	,biopsy,	True
-1939.SKBTI.1033	,biopsy,	False
-1939.SKBTI.1038	,biopsy,	True
-1939.SKBTI.1039	,biopsy,	True
-1939.SKBTI.1034	,biopsy,	True
-1939.SKBTI.1035	,biopsy,	True
-1939.SKBTI.1036	,biopsy,	False
-1939.SKBTI.1031	,biopsy,	False
-1939.SKBTI.1032	,biopsy,	True
-1939.121423	,stool,	True
-1939.121422	,stool,	True
-1939.121421	,stool,	True
-1939.121420	,stool,	True
-1939.SKBTI.0919	,biopsy,	True
-1939.SKBTI040	,biopsy,	False
-1939.SKBTI.1172	,biopsy,	False
-1939.SKBTI.0600	,biopsy,	True
-1939.SKBTI.0603	,biopsy,	False
-1939.SKBTI.0605	,biopsy,	True
-1939.SKBTI.1340	,biopsy,	True
-1939.SKBTI.0249	,biopsy,	True
-1939.SKBTI.0226.a	,biopsy,	True
-1939.MGH104671.b	,biopsy,	True
-1939.SKBTI.1055	,biopsy,	False
-1939.SKBTI.0230.a	,biopsy,	True
-1939.SKBTI.1318	,biopsy,	True
-1939.SKBTI.1333	,biopsy,	True
-1939.SKBTI.0918	,biopsy,	True
-1939.SKBTI.0915	,biopsy,	True
-1939.SKBTI.1106	,biopsy,	False
-1939.SKBTI.0444	,biopsy,	True
-1939.SKBTI.1276	,biopsy,	True
-1939.100117	,stool,	True
-1939.SKBTI.0250.a	,biopsy,	False
-1939.100115	,stool,	True
-1939.122039.a	,stool,	True
-1939.122039.b	,stool,	True
-1939.SKBTI.0533	,biopsy,	False
-1939.SKBTI.0733	,biopsy,	True
-1939.SKBTI.1148	,biopsy,	False
-1939.SKBTI.1064	,biopsy,	True
-1939.121968.a	,stool,	True
-1939.SKBTI.1328	,biopsy,	True
-1939.SKBTI.0252	,biopsy,	True
-1939.SKBTI.0917	,biopsy,	False
-1939.SKBTI.0257	,biopsy,	True
-1939.SKBTI.0258	,biopsy,	False
-1939.SKBTI.0512	,biopsy,	True
-1939.SKBTI.0552	,biopsy,	True
-1939.SKBTI.0275.a	,biopsy,	True
-1939.SKBTI.0251	,biopsy,	True
-1939.SKBTI.0104	,biopsy,	True
-1939.SKBTI.0103	,biopsy,	True
-1939.SKBTI.0244.a	,biopsy,	False
-1939.SKBTI.0244.b	,biopsy,	False
-1939.SKBTI.1323	,biopsy,	True
-1939.SKBTI.1147	,biopsy,	False
-1939.SKBTI.1122	,biopsy,	False
-1939.SKBTI082.b	,biopsy,	True
-1939.SKBTI062.b	,biopsy,	True
-1939.SKBTI069	,biopsy,	False
-1939.SKBTI.0531	,biopsy,	False
-1939.SKBTI.0228.b	,biopsy,	True
-1939.SKBTI.1100	,biopsy,	True
-1939.SKBTI.0138	,biopsy,	True
-1939.100207	,stool,	True
-1939.100205	,stool,	True
-1939.100203	,stool,	True
-1939.100200	,stool,	True
-1939.SKBTI.0131	,biopsy,	True
-1939.SKBTI026	,biopsy,	True
-1939.122049	,stool,	True
-1939.SKBTI.1123	,biopsy,	False
-1939.SKBTI.1288	,biopsy,	True
-1939.SKBTI.1254	,biopsy,	True
-1939.SKBTI.0254.b	,biopsy,	False
-1939.SKBTI.0254.a	,biopsy,	False
-1939.SKBTI.0940	,biopsy,	True
-1939.SKBTI.1251	,biopsy,	False
-1939.SKBTI.1252	,biopsy,	False
-1939.SKBTI.1253	,biopsy,	True
-1939.SKBTI.0108	,biopsy,	False
-1939.SKBTI.1258	,biopsy,	True
-1939.SKBTI.1259	,biopsy,	True
-1939.SKBTI045	,biopsy,	True
-1939.SKBTI020	,biopsy,	True
-1939.SKBTI.0945	,biopsy,	True
-1939.121980.a	,stool,	True
-1939.121980.b	,stool,	True
-1939.SKBTI023	,biopsy,	True
-1939.MGH106271.b	,biopsy,	True
-1939.SKBTI.1117	,biopsy,	True
-1939.SKBTI.0619	,biopsy,	False
-1939.SKBTI.1116	,biopsy,	True
-1939.SKBTI.1115	,biopsy,	True
-1939.SKBTI.1114	,biopsy,	True
-1939.SKBTI.1257	,biopsy,	False
-1939.SKBTI.1070	,biopsy,	False
-1939.SKBTI.1073	,biopsy,	False
-1939.SKBTI.1074	,biopsy,	False
-1939.SKBTI.0271.a	,biopsy,	True
-1939.121469	,stool,	True
-1939.121467	,stool,	True
-1939.121466	,stool,	True
-1939.121465	,stool,	True
-1939.121464	,stool,	True
-1939.121463	,stool,	True
-1939.SKBTI.0970	,biopsy,	False
-1939.121461	,stool,	True
-1939.SKBTI.1176	,biopsy,	False
-1939.SKBTI.0277.b	,biopsy,	True
-1939.SKBTI.0951	,biopsy,	True
-1939.MGH105841	,biopsy,	True
-1939.SKBTI.0954	,biopsy,	True
-1939.SKBTI.0956	,biopsy,	True
-1939.SKBTI.0958	,biopsy,	True
-1939.SKBTI.0246.a	,biopsy,	True
-1939.MGH105553	,biopsy,	False
-1939.SKBTI.1066	,biopsy,	True
-1939.SKBTI.0912	,biopsy,	True
-1939.100085	,stool,	True
-1939.100086	,stool,	True
-1939.100080	,stool,	True
-1939.100083	,stool,	True
-1939.MGH105239	,biopsy,	False
-1939.SKBTI.0265.a	,biopsy,	True
-1939.100089	,stool,	True
-1939.SKBTI.1174	,biopsy,	True
-1939.SKBTI.1146	,biopsy,	True
-1939.SKBTI.1279	,biopsy,	True
-1939.SKBTI.1287	,biopsy,	False
-1939.SKBTI.0876	,biopsy,	True
-1939.121308	,stool,	True
-1939.121309	,stool,	True
-1939.SKBTI.0261.a	,biopsy,	False
-1939.100015	,stool,	True
-1939.SKBTI.0650	,biopsy,	True
-1939.121307	,stool,	True
-1939.100158	,stool,	True
-1939.SKBTI.1093	,biopsy,	False
-1939.SKBTI.0671	,biopsy,	True
-1939.SKBTI047	,biopsy,	True
-1939.SKBTI.0675	,biopsy,	True
-1939.SKBTI.0674	,biopsy,	True
-1939.SKBTI.0676	,biopsy,	True
-1939.SKBTI.0678	,biopsy,	True
-1939.SKBTI076.b	,biopsy,	True
-1939.SKBTI.1289	,biopsy,	True
-1939.SKBTI.1203	,biopsy,	False
-1939.SKBTI.0510	,biopsy,	False
-1939.SKBTI.0259	,biopsy,	True
-1939.SKBTI.0516	,biopsy,	True
-1939.SKBTI.0100	,biopsy,	True
-1939.121283	,stool,	True
-1939.121282	,stool,	True
-1939.121281	,stool,	True
-1939.121280	,stool,	True
-1939.121285	,stool,	True
-1939.121284	,stool,	True
-1939.SKBTI.1168	,biopsy,	True
-1939.SKBTI.0363	,biopsy,	True
-1939.100092	,stool,	True
-1939.SKBTI.0589	,biopsy,	False
-1939.SKBTI.0588	,biopsy,	True
-1939.SKBTI.0583	,biopsy,	True
-1939.121385	,stool,	True
-1939.SKBTI.0585	,biopsy,	True
-1939.122075	,stool,	True
-1939.SKBTI.0170	,biopsy,	True
-1939.SKBTI.0171	,biopsy,	True
-1939.SKBTI.0176	,biopsy,	True
-1939.SKBTI.0174	,biopsy,	True
-1939.SKBTI.0175	,biopsy,	True
-1939.SKBTI.0178	,biopsy,	False
-1939.100128	,stool,	True
-1939.SKBTI.1218	,biopsy,	True
-1939.122006	,stool,	True
-1939.SKBTI.0208	,biopsy,	True
-1939.122001	,stool,	True
-1939.SKBTI.1210	,biopsy,	True
-1939.SKBTI.0205	,biopsy,	False
-1939.SKBTI.0206	,biopsy,	True
-1939.SKBTI.0207	,biopsy,	True
-1939.SKBTI.0201	,biopsy,	False
-1939.SKBTI.0202	,biopsy,	True
-1939.SKBTI.0203	,biopsy,	False
-1939.SKBTI.1351	,biopsy,	True
-1939.SKBTI.1350	,biopsy,	True
-1939.SKBTI.1353	,biopsy,	False
-1939.SKBTI.0194	,biopsy,	True
-1939.SKBTI.0190	,biopsy,	True
-1939.SKBTI.0191	,biopsy,	False
-1939.SKBTI.0192	,biopsy,	True
-1939.SKBTI.0193	,biopsy,	True
-1939.SKBTI.0102.a	,biopsy,	True
-1939.SKBTI.1261	,biopsy,	False
-1939.SKBTI.0968	,biopsy,	True
-1939.SKBTI.1260	,biopsy,	False
-1939.122097	,stool,	True
-1939.SKBTI.1332	,biopsy,	True
-1939.SKBTI053	,biopsy,	False
-1939.SKBTI.1265	,biopsy,	False
-1939.SKBTI.0298	,biopsy,	True
-1939.SKBTI.0556	,biopsy,	True
-1939.SKBTI.1138	,biopsy,	True
-1939.SKBTI.1135	,biopsy,	True
-1939.SKBTI.1136	,biopsy,	True
-1939.SKBTI.1130	,biopsy,	True
-1939.SKBTI.0250.b	,biopsy,	False
-1939.SKBTI.0994	,biopsy,	True
-1939.SKBTI.1206	,biopsy,	True
-1939.SKBTI.0992	,biopsy,	False
-1939.122100.a	,stool,	True
-1939.SKBTI.0684	,biopsy,	True
-1939.SKBTI.0983	,biopsy,	True
-1939.121501	,stool,	True
-1939.121502	,stool,	True
-1939.121503	,stool,	True
-1939.SKBTI.1149	,biopsy,	True
-1939.SKBTI.1118	,biopsy,	False
-1939.100051	,stool,	True
-1939.SKBTI.1188	,biopsy,	True
-1939.SKBTI.1189	,biopsy,	True
-1939.SKBTI.1211	,biopsy,	True
-1939.SKBTI.1180	,biopsy,	False
-1939.SKBTI.1182	,biopsy,	False
-1939.SKBTI.1183	,biopsy,	False
-1939.SKBTI.1184	,biopsy,	False
-1939.SKBTI.1185	,biopsy,	False
-1939.SKBTI.0996	,biopsy,	True
-1939.SKBTI.1187	,biopsy,	False
-1939.SKBTI.0313	,biopsy,	False
-1939.SKBTI.0211.a	,biopsy,	False
-1939.SKBTI.1215	,biopsy,	False
-1939.SKBTI.1009	,biopsy,	True
-1939.SKBTI.1008	,biopsy,	True
-1939.SKBTI.1003	,biopsy,	True
-1939.SKBTI.1002	,biopsy,	True
-1939.SKBTI.0551	,biopsy,	True
-1939.SKBTI.1004	,biopsy,	False
-1939.SKBTI.1007	,biopsy,	True
-1939.SKBTI.1006	,biopsy,	True
-1939.SKBTI.0634	,biopsy,	False
-1939.SKBTI.0637	,biopsy,	True
-1939.SKBTI.0636	,biopsy,	True
-1939.SKBTI.0630	,biopsy,	False
-1939.SKBTI.0633	,biopsy,	False
-1939.SKBTI.0921	,biopsy,	True
-1939.SKBTI079	,biopsy,	True
-1939.SKBTI.0925	,biopsy,	True
-1939.SKBTI.0638	,biopsy,	True
-1939.SKBTI.1238	,biopsy,	True
-1939.SKBTI.1352	,biopsy,	False
-1939.SKBTI049	,biopsy,	False
-1939.SKBTI.0936	,biopsy,	True
-1939.SKBTI.1355	,biopsy,	False
-1939.SKBTI.0488	,biopsy,	True
-1939.SKBTI.1354	,biopsy,	True
-1939.SKBTI.0137	,biopsy,	False
-1939.SKBTI083	,biopsy,	True
-1939.121953.a	,stool,	True
-1939.SKBTI.0997	,biopsy,	True
-1939.SKBTI013	,biopsy,	True
-1939.SKBTI.0966	,biopsy,	True
-1939.SKBTI.0118	,biopsy,	True
-1939.122053.b	,stool,	True
-1939.SKBTI.0141.a	,biopsy,	False
-1939.100163	,stool,	True
-1939.100162	,stool,	True
-1939.100161	,stool,	True
-1939.100043	,stool,	True
-1939.SKBTI.0961	,biopsy,	True
-1939.121488	,stool,	True
-1939.100046	,stool,	True
-1939.100048	,stool,	True
-1939.100049	,stool,	True
-1939.SKBTI.0333	,biopsy,	False
-1939.SKBTI.0916	,biopsy,	True
-1939.121482	,stool,	True
-1939.SKBTI.0240	,biopsy,	True
-1939.SKBTI.0135	,biopsy,	True
-1939.SKBTI.0219	,biopsy,	True
-1939.SKBTI.1305	,biopsy,	False
-1939.SKBTI.0645	,biopsy,	True
-1939.SKBTI.0247	,biopsy,	True
-1939.SKBTI.0248	,biopsy,	True
-1939.SKBTI.0562	,biopsy,	True
-1939.SKBTI.0173.a	,biopsy,	True
-1939.SKBTI.0567	,biopsy,	False
-1939.SKBTI.0099	,M1-0347	True
-1939.SKBTI.0935	,biopsy,	True
-1939.SKBTI.1301	,biopsy,	False
-1939.SKBTI.1326	,biopsy,	True
-1939.MGH100079	,biopsy,	True
-1939.SKBTI.1327	,biopsy,	True
-1939.SKBTI088	,biopsy,	False
-1939.SKBTI050	,biopsy,	True
-1939.SKBTI.0980	,biopsy,	True
-1939.SKBTI.1017	,biopsy,	True
-1939.SKBTI.0908	,biopsy,	False
-1939.SKBTI.0275.b	,biopsy,	True
-1939.SKBTI.0177.a	,biopsy,	True
-1939.SKBTI.0149	,biopsy,	True
-1939.121154	,stool,	True
-1939.SKBTI075.b	,biopsy,	True
-1939.SKBTI.0142	,biopsy,	True
-1939.SKBTI.0147	,biopsy,	True
-1939.SKBTI.0145	,biopsy,	True
-1939.SKBTI.0144	,biopsy,	False
-1939.SKBTI087	,biopsy,	True
-1939.SKBTI033	,biopsy,	True
-1939.122034.a	,stool,	True
-1939.122074	,stool,	True
-1939.122077	,stool,	True
-1939.122061.a	,stool,	True
-1939.122072	,stool,	True
-1939.SKBTI.0891	,biopsy,	True
-1939.SKBTI.0890	,biopsy,	True
-1939.SKBTI.0895	,biopsy,	False
-1939.SKBTI.1264	,biopsy,	True
-1939.SKBTI.1266	,biopsy,	True
-1939.SKBTI.1269	,biopsy,	False
-1939.SKBTI.1268	,biopsy,	True
-1939.SKBTI.1312	,biopsy,	False
-1939.SKBTI.0614	,biopsy,	True
-1939.SKBTI.1155	,biopsy,	True
-1939.SKBTI067	,biopsy,	False
-1939.SKBTI074	,biopsy,	True
-1939.SKBTI.1292	,biopsy,	True
-1939.SKBTI061	,biopsy,	True
-1939.SKBTI059	,biopsy,	True
-1939.SKBTI.1348	,biopsy,	False
-1939.SKBTI.0245.a	,biopsy,	True
-1939.SKBTI.1048	,biopsy,	False
-1939.SKBTI.0623	,biopsy,	True
-1939.SKBTI.1045	,biopsy,	False
-1939.SKBTI.1044	,biopsy,	True
-1939.SKBTI.1047	,biopsy,	False
-1939.SKBTI.1046	,biopsy,	False
-1939.SKBTI.1041	,biopsy,	False
-1939.SKBTI.0620	,biopsy,	True
-1939.SKBTI.1043	,biopsy,	False
-1939.SKBTI.1042	,biopsy,	False
-1939.SKBTI.1092	,biopsy,	True
-1939.SKBTI.0245.b	,biopsy,	True
-1939.121478	,stool,	True
-1939.SKBTI030	,biopsy,	True
-1939.121475	,stool,	True
-1939.121477	,stool,	True
-1939.121470	,stool,	True
-1939.122057.a	,stool,	True
-1939.122057.b	,stool,	True
-1939.SKBTI037	,biopsy,	True
-1939.121959.a	,stool,	True
-1939.SKBTI.1167	,biopsy,	True
-1939.SKBTI.0931	,biopsy,	True
-1939.SKBTI.1165	,biopsy,	True
-1939.SKBTI.0969	,biopsy,	True
-1939.SKBTI.0213.a	,biopsy,	True
-1939.SKBTI.0213.b	,biopsy,	True
-1939.SKBTI.0228.a	,biopsy,	True
-1939.SKBTI052	,biopsy,	False
-1939.SKBTI.0123	,biopsy,	True
-1939.SKBTI.0965	,biopsy,	True
-1939.SKBTI081	,biopsy,	False
-1939.SKBTI.0967	,biopsy,	True
-1939.SKBTI.0124	,biopsy,	True
-1939.SKBTI.0209.a	,biopsy,	True
-1939.SKBTI.0744	,biopsy,	True
-1939.SKBTI.0209.b	,biopsy,	True
-1939.100009	,stool,	True
-1939.SKBTI.1308	,biopsy,	True
-1939.SKBTI.0664	,biopsy,	True
-1939.SKBTI.0662	,biopsy,	False
-1939.100001	,stool,	True
-1939.SKBTI.0660	,biopsy,	False
-1939.121471	,stool,	True
-1939.SKBTI.0129	,biopsy,	True
-1939.SKBTI.1225	,biopsy,	False
-1939.SKBTI.0963	,biopsy,	True
-1939.SKBTI.1162	,biopsy,	True
-1939.SKBTI038	,biopsy,	False
-1939.SKBTI.0227.a	,biopsy,	False
-1939.SKBTI.0114	,biopsy,	False
-1939.100226	,stool,	True
-1939.100227	,stool,	True
-1939.100220	,stool,	True
-1939.100188	,stool,	True
-1939.SKBTI.0113	,biopsy,	True
-1939.100181	,stool,	True
-1939.100180	,stool,	True
-1939.100183	,stool,	True
-1939.SKBTI.1224	,biopsy,	True
-1939.SKBTI063	,biopsy,	True
-1939.SKBTI.1322	,biopsy,	False
-1939.121193	,stool,	True
-1939.121192	,stool,	True
-1939.121190	,stool,	True
-1939.121197	,stool,	True
-1939.121196	,stool,	True
-1939.121195	,stool,	True
-1939.121194	,stool,	True
-1939.SKBTI.0590	,biopsy,	False
-1939.SKBTI.0591	,biopsy,	False
-1939.121199	,stool,	True
-1939.121198	,stool,	True
-1939.SKBTI.0596	,biopsy,	False
-1939.SKBTI.0133	,biopsy,	True
-1939.121971	,stool,	True
-1939.121201	,stool,	True
-1939.121200	,stool,	True
-1939.SKBTI.0130	,biopsy,	True
-1939.121977	,stool,	True
-1939.121979	,stool,	True
-1939.121978	,stool,	True
-1939.SKBTI.1214	,biopsy,	True
-1939.SKBTI.0239	,biopsy,	True
-1939.SKBTI.0238	,biopsy,	True
-1939.SKBTI.1227	,biopsy,	False
-1939.SKBTI.1226	,biopsy,	False
-1939.SKBTI.1221	,biopsy,	True
-1939.SKBTI.1220	,biopsy,	True
-1939.SKBTI.1223	,biopsy,	False
-1939.SKBTI.1222	,biopsy,	False
-1939.SKBTI.0231	,biopsy,	True
-1939.SKBTI.1347	,biopsy,	False
-1939.SKBTI.0232	,biopsy,	True
-1939.SKBTI.0235	,biopsy,	True
-1939.SKBTI.0234	,biopsy,	True
-1939.SKBTI.0237	,biopsy,	False
-1939.SKBTI.0236	,biopsy,	False
-1939.SKBTI.0274.a	,biopsy,	True
-1939.SKBTI.0274.b	,biopsy,	True
-1939.SKBTI.0223.a	,biopsy,	True
-1939.SKBTI.1281	,biopsy,	False
-1939.SKBTI.0164	,biopsy,	False
-1939.SKBTI.0998	,biopsy,	False
-1939.SKBTI.0167	,biopsy,	False
-1939.SKBTI.0999	,biopsy,	False
-1939.SKBTI.0284	,biopsy,	True
-1939.SKBTI.0285	,biopsy,	True
-1939.SKBTI.0286	,biopsy,	False
-1939.SKBTI.0287	,biopsy,	False
-1939.SKBTI.0281	,biopsy,	False
-1939.SKBTI.0283	,biopsy,	False
-1939.SKBTI.0521	,biopsy,	True
-1939.SKBTI.0523	,biopsy,	True
-1939.SKBTI.0522	,biopsy,	True
-1939.SKBTI.1081	,biopsy,	True
-1939.SKBTI.1334	,biopsy,	False
-1939.SKBTI.1128	,biopsy,	False
-1939.SKBTI.1084	,biopsy,	False
-1939.SKBTI.1087	,biopsy,	False
-1939.SKBTI.1086	,biopsy,	False
-1939.SKBTI.1089	,biopsy,	False
-1939.SKBTI.1088	,biopsy,	False
-1939.SKBTI.1120	,biopsy,	False
-1939.SKBTI.1121	,biopsy,	True
-1939.122101	,stool,	True
-1939.SKBTI.1127	,biopsy,	False
-1939.SKBTI.1124	,biopsy,	True
-1939.SKBTI.1125	,biopsy,	False
-1939.SKBTI014	,biopsy,	False
-1939.SKBTI.1294	,biopsy,	False
-1939.100105	,stool,	True
-1939.SKBTI.1272	,biopsy,	True
-1939.SKBTI073	,biopsy,	True
-1939.SKBTI.1255	,biopsy,	True
-1939.SKBTI.1256	,biopsy,	True
-1939.122038	,stool,	True
-1939.122096.b	,stool,	True
-1939.122032	,stool,	True
-1939.SKBTI095	,biopsy,	True
-1939.100104	,stool,	True
-1939.SKBTI.1273	,biopsy,	True
-1939.SKBTI072	,biopsy,	True
-1939.SKBTI.1105	,biopsy,	False
-1939.SKBTI.0272.b	,biopsy,	True
-1939.SKBTI.0272.a	,biopsy,	True
-1939.SKBTI.1209	,biopsy,	True
-1939.SKBTI.1016	,biopsy,	True
-1939.SKBTI.1014	,biopsy,	False
-1939.SKBTI.1015	,biopsy,	False
-1939.SKBTI.1012	,biopsy,	True
-1939.SKBTI.1013	,biopsy,	False
-1939.SKBTI.1010	,biopsy,	True
-1939.SKBTI.1011	,biopsy,	True
-1939.SKBTI064	,biopsy,	False
-1939.SKBTI065	,biopsy,	False
-1939.SKBTI.1152	,biopsy,	False
-1939.SKBTI.1018	,biopsy,	True
-1939.SKBTI.1019	,biopsy,	True
-1939.121405	,stool,	True
-1939.121404	,stool,	True
-1939.SKBTI.0177.b	,biopsy,	True
-1939.121401	,stool,	True
-1939.121400	,stool,	True
-1939.121403	,stool,	True
-1939.121402	,stool,	True
-1939.100107	,stool,	True
-1939.SKBTI.0939	,biopsy,	True
-1939.100106	,stool,	True
-1939.SKBTI.0304	,biopsy,	False
-1939.100101	,stool,	True
-1939.SKBTI.0750	,biopsy,	True
-1939.100100	,stool,	True
-1939.SKBTI.0643	,biopsy,	False
-1939.SKBTI.1200	,biopsy,	False
-1939.121398	,stool,	True
-1939.SKBTI.1207	,biopsy,	True
-1939.SKBTI.0984	,biopsy,	True
-1939.SKBTI039	,biopsy,	False
-1939.SKBTI.1241	,biopsy,	False
-1939.SKBTI077	,biopsy,	True
-1939.SKBTI004	,biopsy,	True
-1939.MGH101003	,biopsy,	True
-1939.SKBTI.0497	,biopsy,	False
-1939.MGH105658	,biopsy,	True
-1939.100178	,stool,	True
-1939.SKBTI.0490	,biopsy,	True
-1939.SKBTI.0493	,biopsy,	False
-1939.SKBTI.0716	,biopsy,	True
-1939.SKBTI.0717	,biopsy,	True
-1939.100176	,stool,	True
-1939.SKBTI.0499	,biopsy,	True
-1939.100077	,stool,	True
-1939.SKBTI.0654	,biopsy,	True
-1939.100071	,stool,	True
-1939.100072	,stool,	True
-1939.SKBTI.0253.a	,biopsy,	False
-1939.121498	,stool,	True
-1939.121499	,stool,	True
-1939.100078	,stool,	True
-1939.SKBTI.0658	,biopsy,	False
-1939.SKBTI.0573	,biopsy,	True
-1939.SKBTI.1091	,biopsy,	True
-1939.SKBTI.1309	,biopsy,	False
-1939.SKBTI.1230	,biopsy,	True
-1939.SKBTI.0301	,biopsy,	True
-1939.SKBTI.1338	,biopsy,	True
-1939.SKBTI.0656	,biopsy,	False
-1939.SKBTI093	,biopsy,	False
-1939.SKBTI.1236	,biopsy,	False
-1939.SKBTI.0928	,biopsy,	True
-1939.SKBTI.0981	,biopsy,	True
-1939.SKBTI.0549	,biopsy,	False
-1939.SKBTI.0158	,biopsy,	True
-1939.SKBTI.0159	,biopsy,	True
-1939.SKBTI.0152	,biopsy,	False
-1939.SKBTI.0153	,biopsy,	True
-1939.SKBTI.0115.a	,biopsy,	True
-1939.SKBTI.0155	,biopsy,	True
-1939.SKBTI.0156	,biopsy,	False
-1939.100070	,stool,	True
-1939.122062	,stool,	True
-1939.122063	,stool,	True
-1939.SKBTI.1239	,biopsy,	True
-1939.SKBTI.1286	,biopsy,	False
-1939.SKBTI.0888	,biopsy,	True
-1939.SKBTI.0889	,biopsy,	True
-1939.SKBTI.1337	,biopsy,	True
-1939.SKBTI.0884	,biopsy,	True
-1939.121495	,stool,	True
-1939.SKBTI.0882	,biopsy,	True
-1939.SKBTI.0883	,biopsy,	True
-1939.SKBTI.1270	,biopsy,	False
-1939.SKBTI.0881	,biopsy,	True
-1939.122098.a	,stool,	True
-1939.SKBTI.1335	,biopsy,	False
-1939.MGH100695.b	,biopsy,	True
-1939.SKBTI.0253.b	,biopsy,	False
-1939.SKBTI.1344	,biopsy,	True
-1939.SKBTI.1311	,biopsy,	False
-1939.SKBTI.0934	,biopsy,	True
-1939.SKBTI.1331	,biopsy,	True
-1939.MGH100601.b	,biopsy,	True
-1939.SKBTI.0652	,biopsy,	True
-1939.SKBTI.0279	,biopsy,	True
-1939.SKBTI.0276	,biopsy,	True
-1939.SKBTI.0273	,biopsy,	True
-1939.SKBTI.1302	,biopsy,	True
-1939.SKBTI.1058	,biopsy,	False
-1939.SKBTI.0665	,biopsy,	True
-1939.SKBTI.0731.b	,biopsy,	True
-1939.SKBTI.1303	,biopsy,	True
-1939.SKBTI.1052	,biopsy,	False
-1939.SKBTI.1050	,biopsy,	True
-1939.SKBTI.1051	,biopsy,	True
-1939.SKBTI.1056	,biopsy,	True
-1939.SKBTI.1057	,biopsy,	False
-1939.SKBTI.1054	,biopsy,	True
-1939.SKBTI.1113	,biopsy,	True
-1939.SKBTI.1112	,biopsy,	True
-1939.SKBTI.0979	,biopsy,	False
-1939.121445	,stool,	True
-1939.121444	,stool,	True
-1939.121447	,stool,	True
-1939.121446	,stool,	False
-1939.121449	,stool,	True
-1939.121448	,stool,	True
-1939.MGH113669.b	,biopsy,	True
-1939.121279	,stool,	True
-1939.SKBTI.0976	,biopsy,	True
-1939.SKBTI.0974	,biopsy,	True
-1939.SKBTI.1307	,biopsy,	False
-1939.SKBTI.1283	,biopsy,	True
-1939.SKBTI.0872	,biopsy,	True
-1939.SKBTI.0871	,biopsy,	True
-1939.SKBTI.0870	,biopsy,	True
-1939.SKBTI.0877	,biopsy,	True
-1939.SKBTI019	,biopsy,	True
-1939.SKBTI.1175	,biopsy,	True
-1939.SKBTI.0878	,biopsy,	True
-1939.SKBTI.0758	,biopsy,	True
-1939.SKBTI078	,biopsy,	False
-1939.SKBTI.1204	,biopsy,	True
-1939.SKBTI.1126	,biopsy,	False
-1939.SKBTI.1343	,biopsy,	True
-1939.SKBTI060	,biopsy,	False
-1939.SKBTI.0756.b	,biopsy,	True
-1939.SKBTI.0929	,biopsy,	True
-1939.SKBTI.0264.a	,biopsy,	False
-1939.SKBTI.1263	,biopsy,	False
-1939.SKBTI070	,biopsy,	True
-1939.SKBTI.1029	,biopsy,	False
-1939.SKBTI.0263	,biopsy,	True
-1939.SKBTI.1178	,biopsy,	False
-1939.SKBTI.1025	,biopsy,	True
-1939.SKBTI.1024	,biopsy,	True
-1939.SKBTI.0260	,biopsy,	True
-1939.SKBTI054	,biopsy,	True
-1939.MGH101123	,biopsy,	True
-1939.MGH129951	,biopsy,	True
-1939.SKBTI.0754	,biopsy,	True
-1939.SKBTI.0755	,biopsy,	True
-1939.SKBTI.0613	,biopsy,	True
-1939.SKBTI.0611	,biopsy,	False
-1939.SKBTI.0098.a	,biopsy,	True
-1939.SKBTI.0615	,biopsy,	True
-1939.SKBTI.1201	,biopsy,	False
-1939.SKBTI.0362	,biopsy,	True
-1939.SKBTI009	,biopsy,	True
-1939.SKBTI086	,biopsy,	False
-1939.SKBTI.0107.a	,biopsy,	False
-1939.SKBTI.0282.a	,biopsy,	False
-1939.SKBTI.0120	,biopsy,	True
-1939.100190	,stool,	True
-1939.100191	,stool,	True
-1939.100196	,stool,	True
-1939.100197	,stool,	True
-1939.SKBTI.0127	,biopsy,	False
-1939.100195	,stool,	True
-1939.121952.a	,stool,	True
-1939.SKBTI.0128	,biopsy,	True
-1939.SKBTI.1077	,biopsy,	False
-1939.SKBTI.0621	,biopsy,	False
-1939.SKBTI057	,biopsy,	True
-1939.SKBTI.0117	,biopsy,	True
-1939.SKBTI.0910	,biopsy,	True
-1939.SKBTI.1079	,biopsy,	False
-1939.SKBTI.1173	,biopsy,	True
-1939.121181	,stool,	True
-1939.121182	,stool,	True
-1939.121183	,stool,	True
-1939.121185	,stool,	True
-1939.121186	,stool,	True
-1939.121187	,stool,	True
-1939.121188	,stool,	True
-1939.121189	,stool,	True
-1939.SKBTI.1078	,biopsy,	False
-1939.SKBTI066.b	,biopsy,	True
-1939.SKBTI.0626	,biopsy,	False
-1939.100003	,stool,	True
-1939.121212	,stool,	True
-1939.121213	,stool,	True
-1939.121215	,stool,	True
-1939.121216	,stool,	True
-1939.121217	,stool,	True
-1939.121218	,stool,	True
-1939.121219	,stool,	True
-1939.100109	,stool,	True
-1939.SKBTI.1232	,biopsy,	False
-1939.SKBTI096	,biopsy,	True
-1939.SKBTI.1231	,biopsy,	False
-1939.SKBTI.1237	,biopsy,	False
-1939.100228	,stool,	True
-1939.SKBTI.0544	,biopsy,	True
-1939.SKBTI.0541	,biopsy,	True
-1939.SKBTI.0136.a	,biopsy,	True
-1939.SKBTI.0277.a	,biopsy,	True
-1939.SKBTI.0448	,biopsy,	True
-1939.MGH103128	,biopsy,	True
-1939.121982	,stool,	True
-1939.121983	,stool,	True
-1939.SKBTI.1324	,biopsy,	True
-1939.SKBTI.1299	,biopsy,	False
-1939.122117.a	,stool,	True
-1939.SKBTI.0985	,biopsy,	True
-1939.SKBTI.0537	,biopsy,	False
-1939.100219	,stool,	True
-1939.122115.b	,stool,	True
-1939.122115.a	,stool,	True
-1939.SKBTI.0539	,biopsy,	True
-1939.SKBTI.0534	,biopsy,	False
-1939.100211	,stool,	True
-1939.SKBTI.0530	,biopsy,	False
-1939.100212	,stool,	True
-1939.SKBTI.0536	,biopsy,	True
-1939.100217	,stool,	True
-1939.100216	,stool,	True
+1939.122059,stool,True
+1939.122058,stool,True
+1939.SKBTI.0568,biopsy,False
+1939.122050,stool,True
+1939.SKBTI.1186,biopsy,False
+1939.SKBTI.1246,biopsy,False
+1939.SKBTI.1245,biopsy,False
+1939.SKBTI.1244,biopsy,True
+1939.121954.a,stool,True
+1939.SKBTI011,biopsy,True
+1939.MGH101446,biopsy,True
+1939.SKBTI.1249,biopsy,False
+1939.SKBTI.1248,biopsy,True
+1939.SKBTI.0640,biopsy,False
+1939.SKBTI.1023,biopsy,False
+1939.122163.a,stool,True
+1939.122163.b,stool,True
+1939.SKBTI.1171,biopsy,True
+1939.SKBTI.0973,biopsy,True
+1939.SKBTI.1320,biopsy,True
+1939.SKBTI.0599,biopsy,False
+1939.SKBTI.1170,biopsy,False
+1939.SKBTI.1103,biopsy,True
+1939.122164.b,stool,True
+1939.SKBTI.1063,biopsy,True
+1939.SKBTI.1060,biopsy,True
+1939.SKBTI.1067,biopsy,True
+1939.122164.a,stool,True
+1939.SKBTI.1065,biopsy,True
+1939.SKBTI.0151,biopsy,True
+1939.SKBTI.1144,biopsy,True
+1939.SKBTI.1145,biopsy,True
+1939.SKBTI.1069,biopsy,False
+1939.SKBTI.1068,biopsy,False
+1939.SKBTI.1140,biopsy,False
+1939.SKBTI.1141,biopsy,False
+1939.SKBTI.1142,biopsy,True
+1939.SKBTI.1295,biopsy,True
+1939.SKBTI.0942,biopsy,True
+1939.122119.a,stool,True
+1939.SKBTI.1104,biopsy,False
+1939.SKBTI.0949,biopsy,True
+1939.SKBTI.0867,biopsy,True
+1939.SKBTI.1298,biopsy,False
+1939.SKBTI.1325,biopsy,True
+1939.SKBTI025,biopsy,True
+1939.SKBTI.1098,biopsy,True
+1939.SKBTI.1099,biopsy,True
+1939.SKBTI.1097,biopsy,True
+1939.SKBTI.1094,biopsy,True
+1939.122113.a,stool,True
+1939.SKBTI.0592,biopsy,True
+1939.SKBTI.1090,biopsy,False
+1939.122113.b,stool,True
+1939.SKBTI.1315,biopsy,False
+1939.100096,stool,True
+1939.100095,stool,True
+1939.MGH109812,biopsy,True
+1939.121386,stool,True
+1939.121387,stool,True
+1939.100091,stool,True
+1939.SKBTI.1342,biopsy,False
+1939.121389,stool,True
+1939.100099,stool,True
+1939.SKBTI044,biopsy,False
+1939.MGH104316.b,biopsy,True
+1939.SKBTI036,biopsy,False
+1939.SKBTI058,biopsy,True
+1939.SKBTI.0482,biopsy,True
+1939.100068,stool,True
+1939.SKBTI.0486,biopsy,True
+1939.SKBTI.0487,biopsy,True
+1939.SKBTI.0485,biopsy,False
+1939.100062,stool,True
+1939.100060,stool,True
+1939.SKBTI.0489,biopsy,False
+1939.SKBTI.0766,biopsy,True
+1939.121314,stool,True
+1939.SKBTI.0311,biopsy,True
+1939.121311,stool,True
+1939.121310,stool,True
+1939.121313,stool,True
+1939.121312,stool,True
+1939.SKBTI.1022,biopsy,True
+1939.120153,stool,False
+1939.SKBTI.0648,biopsy,False
+1939.120155,stool,False
+1939.120156,stool,False
+1939.120157,stool,False
+1939.SKBTI.0504,biopsy,True
+1939.SKBTI.1336,biopsy,True
+1939.SKBTI.0508,biopsy,False
+1939.SKBTI028,biopsy,True
+1939.SKBTI.0198.a,biopsy,True
+1939.SKBTI048,biopsy,True
+1939.SKBTI.1193,biopsy,False
+1939.SKBTI.0154.a,biopsy,True
+1939.SKBTI.1192,biopsy,False
+1939.SKBTI.1271,biopsy,False
+1939.SKBTI.1284,biopsy,True
+1939.SKBTI.0148,biopsy,True
+1939.SKBTI068,biopsy,True
+1939.SKBTI.0262.a,biopsy,True
+1939.SKBTI043,biopsy,True
+1939.SKBTI016,biopsy,True
+1939.SKBTI029,biopsy,False
+1939.SKBTI.0262.b,biopsy,True
+1939.SKBTI.0161,biopsy,True
+1939.SKBTI.0160,biopsy,True
+1939.SKBTI.0163,biopsy,True
+1939.SKBTI.0162,biopsy,True
+1939.SKBTI.0513,biopsy,True
+1939.SKBTI.0169,biopsy,False
+1939.SKBTI.0168,biopsy,True
+1939.SKBTI071,biopsy,True
+1939.SKBTI.0218,biopsy,False
+1939.SKBTI.0217,biopsy,True
+1939.SKBTI.0216,biopsy,True
+1939.SKBTI.0215,biopsy,True
+1939.SKBTI.0214,biopsy,True
+1939.SKBTI.1053,biopsy,True
+1939.SKBTI.0212,biopsy,True
+1939.SKBTI.1205,biopsy,False
+1939.SKBTI.0210,biopsy,True
+1939.SKBTI092.b,biopsy,True
+1939.SKBTI.0563,biopsy,False
+1939.SKBTI.0189,biopsy,True
+1939.SKBTI.0188,biopsy,False
+1939.SKBTI.0187,biopsy,False
+1939.SKBTI.0186,biopsy,False
+1939.SKBTI.0184,biopsy,True
+1939.SKBTI.0182,biopsy,False
+1939.SKBTI.0181,biopsy,False
+1939.SKBTI.0180,biopsy,True
+1939.SKBTI.1349,biopsy,True
+1939.SKBTI.1085,biopsy,False
+1939.SKBTI.1346,biopsy,True
+1939.SKBTI.0268,biopsy,True
+1939.SKBTI.0269,biopsy,False
+1939.MGH100896.b,biopsy,True
+1939.SKBTI.0266,biopsy,False
+1939.SKBTI.0267,biopsy,True
+1939.SKBTI.0704,biopsy,True
+1939.SKBTI.0995,biopsy,True
+1939.SKBTI089.b,biopsy,False
+1939.SKBTI.1345,biopsy,True
+1939.SKBTI.1062,biopsy,True
+1939.SKBTI.1229,biopsy,True
+1939.SKBTI.0972,biopsy,False
+1939.SKBTI.1228,biopsy,True
+1939.121457,stool,True
+1939.121454,stool,True
+1939.121455,stool,True
+1939.121452,stool,True
+1939.SKBTI.0982,biopsy,False
+1939.121450,stool,True
+1939.121451,stool,True
+1939.SKBTI.1341,biopsy,False
+1939.SKBTI.0989,biopsy,True
+1939.SKBTI.0988,biopsy,True
+1939.SKBTI.1291,biopsy,True
+1939.SKBTI.1217,biopsy,True
+1939.SKBTI.1293,biopsy,False
+1939.SKBTI.1061,biopsy,True
+1939.SKBTI.0865,biopsy,True
+1939.SKBTI.0869,biopsy,True
+1939.SKBTI.0971,biopsy,True
+1939.SKBTI.1314,biopsy,False
+1939.SKBTI.1310,biopsy,False
+1939.SKBTI.1076,biopsy,True
+1939.SKBTI.1191,biopsy,True
+1939.SKBTI.1197,biopsy,True
+1939.SKBTI.1196,biopsy,True
+1939.SKBTI.1195,biopsy,True
+1939.SKBTI.1194,biopsy,False
+1939.SKBTI.1235,biopsy,False
+1939.SKBTI.0241,biopsy,False
+1939.SKBTI.0943,biopsy,True
+1939.SKBTI.0242,biopsy,True
+1939.SKBTI.1129,biopsy,True
+1939.SKBTI055,biopsy,True
+1939.SKBTI.1033,biopsy,False
+1939.SKBTI.1038,biopsy,True
+1939.SKBTI.1039,biopsy,True
+1939.SKBTI.1034,biopsy,True
+1939.SKBTI.1035,biopsy,True
+1939.SKBTI.1036,biopsy,False
+1939.SKBTI.1031,biopsy,False
+1939.SKBTI.1032,biopsy,True
+1939.121423,stool,True
+1939.121422,stool,True
+1939.121421,stool,True
+1939.121420,stool,True
+1939.SKBTI.0919,biopsy,True
+1939.SKBTI040,biopsy,False
+1939.SKBTI.1172,biopsy,False
+1939.SKBTI.0600,biopsy,True
+1939.SKBTI.0603,biopsy,False
+1939.SKBTI.0605,biopsy,True
+1939.SKBTI.1340,biopsy,True
+1939.SKBTI.0249,biopsy,True
+1939.SKBTI.0226.a,biopsy,True
+1939.MGH104671.b,biopsy,True
+1939.SKBTI.1055,biopsy,False
+1939.SKBTI.0230.a,biopsy,True
+1939.SKBTI.1318,biopsy,True
+1939.SKBTI.1333,biopsy,True
+1939.SKBTI.0918,biopsy,True
+1939.SKBTI.0915,biopsy,True
+1939.SKBTI.1106,biopsy,False
+1939.SKBTI.0444,biopsy,True
+1939.SKBTI.1276,biopsy,True
+1939.100117,stool,True
+1939.SKBTI.0250.a,biopsy,False
+1939.100115,stool,True
+1939.122039.a,stool,True
+1939.122039.b,stool,True
+1939.SKBTI.0533,biopsy,False
+1939.SKBTI.0733,biopsy,True
+1939.SKBTI.1148,biopsy,False
+1939.SKBTI.1064,biopsy,True
+1939.121968.a,stool,True
+1939.SKBTI.1328,biopsy,True
+1939.SKBTI.0252,biopsy,True
+1939.SKBTI.0917,biopsy,False
+1939.SKBTI.0257,biopsy,True
+1939.SKBTI.0258,biopsy,False
+1939.SKBTI.0512,biopsy,True
+1939.SKBTI.0552,biopsy,True
+1939.SKBTI.0275.a,biopsy,True
+1939.SKBTI.0251,biopsy,True
+1939.SKBTI.0104,biopsy,True
+1939.SKBTI.0103,biopsy,True
+1939.SKBTI.0244.a,biopsy,False
+1939.SKBTI.0244.b,biopsy,False
+1939.SKBTI.1323,biopsy,True
+1939.SKBTI.1147,biopsy,False
+1939.SKBTI.1122,biopsy,False
+1939.SKBTI082.b,biopsy,True
+1939.SKBTI062.b,biopsy,True
+1939.SKBTI069,biopsy,False
+1939.SKBTI.0531,biopsy,False
+1939.SKBTI.0228.b,biopsy,True
+1939.SKBTI.1100,biopsy,True
+1939.SKBTI.0138,biopsy,True
+1939.100207,stool,True
+1939.100205,stool,True
+1939.100203,stool,True
+1939.100200,stool,True
+1939.SKBTI.0131,biopsy,True
+1939.SKBTI026,biopsy,True
+1939.122049,stool,True
+1939.SKBTI.1123,biopsy,False
+1939.SKBTI.1288,biopsy,True
+1939.SKBTI.1254,biopsy,True
+1939.SKBTI.0254.b,biopsy,False
+1939.SKBTI.0254.a,biopsy,False
+1939.SKBTI.0940,biopsy,True
+1939.SKBTI.1251,biopsy,False
+1939.SKBTI.1252,biopsy,False
+1939.SKBTI.1253,biopsy,True
+1939.SKBTI.0108,biopsy,False
+1939.SKBTI.1258,biopsy,True
+1939.SKBTI.1259,biopsy,True
+1939.SKBTI045,biopsy,True
+1939.SKBTI020,biopsy,True
+1939.SKBTI.0945,biopsy,True
+1939.121980.a,stool,True
+1939.121980.b,stool,True
+1939.SKBTI023,biopsy,True
+1939.MGH106271.b,biopsy,True
+1939.SKBTI.1117,biopsy,True
+1939.SKBTI.0619,biopsy,False
+1939.SKBTI.1116,biopsy,True
+1939.SKBTI.1115,biopsy,True
+1939.SKBTI.1114,biopsy,True
+1939.SKBTI.1257,biopsy,False
+1939.SKBTI.1070,biopsy,False
+1939.SKBTI.1073,biopsy,False
+1939.SKBTI.1074,biopsy,False
+1939.SKBTI.0271.a,biopsy,True
+1939.121469,stool,True
+1939.121467,stool,True
+1939.121466,stool,True
+1939.121465,stool,True
+1939.121464,stool,True
+1939.121463,stool,True
+1939.SKBTI.0970,biopsy,False
+1939.121461,stool,True
+1939.SKBTI.1176,biopsy,False
+1939.SKBTI.0277.b,biopsy,True
+1939.SKBTI.0951,biopsy,True
+1939.MGH105841,biopsy,True
+1939.SKBTI.0954,biopsy,True
+1939.SKBTI.0956,biopsy,True
+1939.SKBTI.0958,biopsy,True
+1939.SKBTI.0246.a,biopsy,True
+1939.MGH105553,biopsy,False
+1939.SKBTI.1066,biopsy,True
+1939.SKBTI.0912,biopsy,True
+1939.100085,stool,True
+1939.100086,stool,True
+1939.100080,stool,True
+1939.100083,stool,True
+1939.MGH105239,biopsy,False
+1939.SKBTI.0265.a,biopsy,True
+1939.100089,stool,True
+1939.SKBTI.1174,biopsy,True
+1939.SKBTI.1146,biopsy,True
+1939.SKBTI.1279,biopsy,True
+1939.SKBTI.1287,biopsy,False
+1939.SKBTI.0876,biopsy,True
+1939.121308,stool,True
+1939.121309,stool,True
+1939.SKBTI.0261.a,biopsy,False
+1939.100015,stool,True
+1939.SKBTI.0650,biopsy,True
+1939.121307,stool,True
+1939.100158,stool,True
+1939.SKBTI.1093,biopsy,False
+1939.SKBTI.0671,biopsy,True
+1939.SKBTI047,biopsy,True
+1939.SKBTI.0675,biopsy,True
+1939.SKBTI.0674,biopsy,True
+1939.SKBTI.0676,biopsy,True
+1939.SKBTI.0678,biopsy,True
+1939.SKBTI076.b,biopsy,True
+1939.SKBTI.1289,biopsy,True
+1939.SKBTI.1203,biopsy,False
+1939.SKBTI.0510,biopsy,False
+1939.SKBTI.0259,biopsy,True
+1939.SKBTI.0516,biopsy,True
+1939.SKBTI.0100,biopsy,True
+1939.121283,stool,True
+1939.121282,stool,True
+1939.121281,stool,True
+1939.121280,stool,True
+1939.121285,stool,True
+1939.121284,stool,True
+1939.SKBTI.1168,biopsy,True
+1939.SKBTI.0363,biopsy,True
+1939.100092,stool,True
+1939.SKBTI.0589,biopsy,False
+1939.SKBTI.0588,biopsy,True
+1939.SKBTI.0583,biopsy,True
+1939.121385,stool,True
+1939.SKBTI.0585,biopsy,True
+1939.122075,stool,True
+1939.SKBTI.0170,biopsy,True
+1939.SKBTI.0171,biopsy,True
+1939.SKBTI.0176,biopsy,True
+1939.SKBTI.0174,biopsy,True
+1939.SKBTI.0175,biopsy,True
+1939.SKBTI.0178,biopsy,False
+1939.100128,stool,True
+1939.SKBTI.1218,biopsy,True
+1939.122006,stool,True
+1939.SKBTI.0208,biopsy,True
+1939.122001,stool,True
+1939.SKBTI.1210,biopsy,True
+1939.SKBTI.0205,biopsy,False
+1939.SKBTI.0206,biopsy,True
+1939.SKBTI.0207,biopsy,True
+1939.SKBTI.0201,biopsy,False
+1939.SKBTI.0202,biopsy,True
+1939.SKBTI.0203,biopsy,False
+1939.SKBTI.1351,biopsy,True
+1939.SKBTI.1350,biopsy,True
+1939.SKBTI.1353,biopsy,False
+1939.SKBTI.0194,biopsy,True
+1939.SKBTI.0190,biopsy,True
+1939.SKBTI.0191,biopsy,False
+1939.SKBTI.0192,biopsy,True
+1939.SKBTI.0193,biopsy,True
+1939.SKBTI.0102.a,biopsy,True
+1939.SKBTI.1261,biopsy,False
+1939.SKBTI.0968,biopsy,True
+1939.SKBTI.1260,biopsy,False
+1939.122097,stool,True
+1939.SKBTI.1332,biopsy,True
+1939.SKBTI053,biopsy,False
+1939.SKBTI.1265,biopsy,False
+1939.SKBTI.0298,biopsy,True
+1939.SKBTI.0556,biopsy,True
+1939.SKBTI.1138,biopsy,True
+1939.SKBTI.1135,biopsy,True
+1939.SKBTI.1136,biopsy,True
+1939.SKBTI.1130,biopsy,True
+1939.SKBTI.0250.b,biopsy,False
+1939.SKBTI.0994,biopsy,True
+1939.SKBTI.1206,biopsy,True
+1939.SKBTI.0992,biopsy,False
+1939.122100.a,stool,True
+1939.SKBTI.0684,biopsy,True
+1939.SKBTI.0983,biopsy,True
+1939.121501,stool,True
+1939.121502,stool,True
+1939.121503,stool,True
+1939.SKBTI.1149,biopsy,True
+1939.SKBTI.1118,biopsy,False
+1939.100051,stool,True
+1939.SKBTI.1188,biopsy,True
+1939.SKBTI.1189,biopsy,True
+1939.SKBTI.1211,biopsy,True
+1939.SKBTI.1180,biopsy,False
+1939.SKBTI.1182,biopsy,False
+1939.SKBTI.1183,biopsy,False
+1939.SKBTI.1184,biopsy,False
+1939.SKBTI.1185,biopsy,False
+1939.SKBTI.0996,biopsy,True
+1939.SKBTI.1187,biopsy,False
+1939.SKBTI.0313,biopsy,False
+1939.SKBTI.0211.a,biopsy,False
+1939.SKBTI.1215,biopsy,False
+1939.SKBTI.1009,biopsy,True
+1939.SKBTI.1008,biopsy,True
+1939.SKBTI.1003,biopsy,True
+1939.SKBTI.1002,biopsy,True
+1939.SKBTI.0551,biopsy,True
+1939.SKBTI.1004,biopsy,False
+1939.SKBTI.1007,biopsy,True
+1939.SKBTI.1006,biopsy,True
+1939.SKBTI.0634,biopsy,False
+1939.SKBTI.0637,biopsy,True
+1939.SKBTI.0636,biopsy,True
+1939.SKBTI.0630,biopsy,False
+1939.SKBTI.0633,biopsy,False
+1939.SKBTI.0921,biopsy,True
+1939.SKBTI079,biopsy,True
+1939.SKBTI.0925,biopsy,True
+1939.SKBTI.0638,biopsy,True
+1939.SKBTI.1238,biopsy,True
+1939.SKBTI.1352,biopsy,False
+1939.SKBTI049,biopsy,False
+1939.SKBTI.0936,biopsy,True
+1939.SKBTI.1355,biopsy,False
+1939.SKBTI.0488,biopsy,True
+1939.SKBTI.1354,biopsy,True
+1939.SKBTI.0137,biopsy,False
+1939.SKBTI083,biopsy,True
+1939.121953.a,stool,True
+1939.SKBTI.0997,biopsy,True
+1939.SKBTI013,biopsy,True
+1939.SKBTI.0966,biopsy,True
+1939.SKBTI.0118,biopsy,True
+1939.122053.b,stool,True
+1939.SKBTI.0141.a,biopsy,False
+1939.100163,stool,True
+1939.100162,stool,True
+1939.100161,stool,True
+1939.100043,stool,True
+1939.SKBTI.0961,biopsy,True
+1939.121488,stool,True
+1939.100046,stool,True
+1939.100048,stool,True
+1939.100049,stool,True
+1939.SKBTI.0333,biopsy,False
+1939.SKBTI.0916,biopsy,True
+1939.121482,stool,True
+1939.SKBTI.0240,biopsy,True
+1939.SKBTI.0135,biopsy,True
+1939.SKBTI.0219,biopsy,True
+1939.SKBTI.1305,biopsy,False
+1939.SKBTI.0645,biopsy,True
+1939.SKBTI.0247,biopsy,True
+1939.SKBTI.0248,biopsy,True
+1939.SKBTI.0562,biopsy,True
+1939.SKBTI.0173.a,biopsy,True
+1939.SKBTI.0567,biopsy,False
+1939.SKBTI.0099,M1-0347True
+1939.SKBTI.0935,biopsy,True
+1939.SKBTI.1301,biopsy,False
+1939.SKBTI.1326,biopsy,True
+1939.MGH100079,biopsy,True
+1939.SKBTI.1327,biopsy,True
+1939.SKBTI088,biopsy,False
+1939.SKBTI050,biopsy,True
+1939.SKBTI.0980,biopsy,True
+1939.SKBTI.1017,biopsy,True
+1939.SKBTI.0908,biopsy,False
+1939.SKBTI.0275.b,biopsy,True
+1939.SKBTI.0177.a,biopsy,True
+1939.SKBTI.0149,biopsy,True
+1939.121154,stool,True
+1939.SKBTI075.b,biopsy,True
+1939.SKBTI.0142,biopsy,True
+1939.SKBTI.0147,biopsy,True
+1939.SKBTI.0145,biopsy,True
+1939.SKBTI.0144,biopsy,False
+1939.SKBTI087,biopsy,True
+1939.SKBTI033,biopsy,True
+1939.122034.a,stool,True
+1939.122074,stool,True
+1939.122077,stool,True
+1939.122061.a,stool,True
+1939.122072,stool,True
+1939.SKBTI.0891,biopsy,True
+1939.SKBTI.0890,biopsy,True
+1939.SKBTI.0895,biopsy,False
+1939.SKBTI.1264,biopsy,True
+1939.SKBTI.1266,biopsy,True
+1939.SKBTI.1269,biopsy,False
+1939.SKBTI.1268,biopsy,True
+1939.SKBTI.1312,biopsy,False
+1939.SKBTI.0614,biopsy,True
+1939.SKBTI.1155,biopsy,True
+1939.SKBTI067,biopsy,False
+1939.SKBTI074,biopsy,True
+1939.SKBTI.1292,biopsy,True
+1939.SKBTI061,biopsy,True
+1939.SKBTI059,biopsy,True
+1939.SKBTI.1348,biopsy,False
+1939.SKBTI.0245.a,biopsy,True
+1939.SKBTI.1048,biopsy,False
+1939.SKBTI.0623,biopsy,True
+1939.SKBTI.1045,biopsy,False
+1939.SKBTI.1044,biopsy,True
+1939.SKBTI.1047,biopsy,False
+1939.SKBTI.1046,biopsy,False
+1939.SKBTI.1041,biopsy,False
+1939.SKBTI.0620,biopsy,True
+1939.SKBTI.1043,biopsy,False
+1939.SKBTI.1042,biopsy,False
+1939.SKBTI.1092,biopsy,True
+1939.SKBTI.0245.b,biopsy,True
+1939.121478,stool,True
+1939.SKBTI030,biopsy,True
+1939.121475,stool,True
+1939.121477,stool,True
+1939.121470,stool,True
+1939.122057.a,stool,True
+1939.122057.b,stool,True
+1939.SKBTI037,biopsy,True
+1939.121959.a,stool,True
+1939.SKBTI.1167,biopsy,True
+1939.SKBTI.0931,biopsy,True
+1939.SKBTI.1165,biopsy,True
+1939.SKBTI.0969,biopsy,True
+1939.SKBTI.0213.a,biopsy,True
+1939.SKBTI.0213.b,biopsy,True
+1939.SKBTI.0228.a,biopsy,True
+1939.SKBTI052,biopsy,False
+1939.SKBTI.0123,biopsy,True
+1939.SKBTI.0965,biopsy,True
+1939.SKBTI081,biopsy,False
+1939.SKBTI.0967,biopsy,True
+1939.SKBTI.0124,biopsy,True
+1939.SKBTI.0209.a,biopsy,True
+1939.SKBTI.0744,biopsy,True
+1939.SKBTI.0209.b,biopsy,True
+1939.100009,stool,True
+1939.SKBTI.1308,biopsy,True
+1939.SKBTI.0664,biopsy,True
+1939.SKBTI.0662,biopsy,False
+1939.100001,stool,True
+1939.SKBTI.0660,biopsy,False
+1939.121471,stool,True
+1939.SKBTI.0129,biopsy,True
+1939.SKBTI.1225,biopsy,False
+1939.SKBTI.0963,biopsy,True
+1939.SKBTI.1162,biopsy,True
+1939.SKBTI038,biopsy,False
+1939.SKBTI.0227.a,biopsy,False
+1939.SKBTI.0114,biopsy,False
+1939.100226,stool,True
+1939.100227,stool,True
+1939.100220,stool,True
+1939.100188,stool,True
+1939.SKBTI.0113,biopsy,True
+1939.100181,stool,True
+1939.100180,stool,True
+1939.100183,stool,True
+1939.SKBTI.1224,biopsy,True
+1939.SKBTI063,biopsy,True
+1939.SKBTI.1322,biopsy,False
+1939.121193,stool,True
+1939.121192,stool,True
+1939.121190,stool,True
+1939.121197,stool,True
+1939.121196,stool,True
+1939.121195,stool,True
+1939.121194,stool,True
+1939.SKBTI.0590,biopsy,False
+1939.SKBTI.0591,biopsy,False
+1939.121199,stool,True
+1939.121198,stool,True
+1939.SKBTI.0596,biopsy,False
+1939.SKBTI.0133,biopsy,True
+1939.121971,stool,True
+1939.121201,stool,True
+1939.121200,stool,True
+1939.SKBTI.0130,biopsy,True
+1939.121977,stool,True
+1939.121979,stool,True
+1939.121978,stool,True
+1939.SKBTI.1214,biopsy,True
+1939.SKBTI.0239,biopsy,True
+1939.SKBTI.0238,biopsy,True
+1939.SKBTI.1227,biopsy,False
+1939.SKBTI.1226,biopsy,False
+1939.SKBTI.1221,biopsy,True
+1939.SKBTI.1220,biopsy,True
+1939.SKBTI.1223,biopsy,False
+1939.SKBTI.1222,biopsy,False
+1939.SKBTI.0231,biopsy,True
+1939.SKBTI.1347,biopsy,False
+1939.SKBTI.0232,biopsy,True
+1939.SKBTI.0235,biopsy,True
+1939.SKBTI.0234,biopsy,True
+1939.SKBTI.0237,biopsy,False
+1939.SKBTI.0236,biopsy,False
+1939.SKBTI.0274.a,biopsy,True
+1939.SKBTI.0274.b,biopsy,True
+1939.SKBTI.0223.a,biopsy,True
+1939.SKBTI.1281,biopsy,False
+1939.SKBTI.0164,biopsy,False
+1939.SKBTI.0998,biopsy,False
+1939.SKBTI.0167,biopsy,False
+1939.SKBTI.0999,biopsy,False
+1939.SKBTI.0284,biopsy,True
+1939.SKBTI.0285,biopsy,True
+1939.SKBTI.0286,biopsy,False
+1939.SKBTI.0287,biopsy,False
+1939.SKBTI.0281,biopsy,False
+1939.SKBTI.0283,biopsy,False
+1939.SKBTI.0521,biopsy,True
+1939.SKBTI.0523,biopsy,True
+1939.SKBTI.0522,biopsy,True
+1939.SKBTI.1081,biopsy,True
+1939.SKBTI.1334,biopsy,False
+1939.SKBTI.1128,biopsy,False
+1939.SKBTI.1084,biopsy,False
+1939.SKBTI.1087,biopsy,False
+1939.SKBTI.1086,biopsy,False
+1939.SKBTI.1089,biopsy,False
+1939.SKBTI.1088,biopsy,False
+1939.SKBTI.1120,biopsy,False
+1939.SKBTI.1121,biopsy,True
+1939.122101,stool,True
+1939.SKBTI.1127,biopsy,False
+1939.SKBTI.1124,biopsy,True
+1939.SKBTI.1125,biopsy,False
+1939.SKBTI014,biopsy,False
+1939.SKBTI.1294,biopsy,False
+1939.100105,stool,True
+1939.SKBTI.1272,biopsy,True
+1939.SKBTI073,biopsy,True
+1939.SKBTI.1255,biopsy,True
+1939.SKBTI.1256,biopsy,True
+1939.122038,stool,True
+1939.122096.b,stool,True
+1939.122032,stool,True
+1939.SKBTI095,biopsy,True
+1939.100104,stool,True
+1939.SKBTI.1273,biopsy,True
+1939.SKBTI072,biopsy,True
+1939.SKBTI.1105,biopsy,False
+1939.SKBTI.0272.b,biopsy,True
+1939.SKBTI.0272.a,biopsy,True
+1939.SKBTI.1209,biopsy,True
+1939.SKBTI.1016,biopsy,True
+1939.SKBTI.1014,biopsy,False
+1939.SKBTI.1015,biopsy,False
+1939.SKBTI.1012,biopsy,True
+1939.SKBTI.1013,biopsy,False
+1939.SKBTI.1010,biopsy,True
+1939.SKBTI.1011,biopsy,True
+1939.SKBTI064,biopsy,False
+1939.SKBTI065,biopsy,False
+1939.SKBTI.1152,biopsy,False
+1939.SKBTI.1018,biopsy,True
+1939.SKBTI.1019,biopsy,True
+1939.121405,stool,True
+1939.121404,stool,True
+1939.SKBTI.0177.b,biopsy,True
+1939.121401,stool,True
+1939.121400,stool,True
+1939.121403,stool,True
+1939.121402,stool,True
+1939.100107,stool,True
+1939.SKBTI.0939,biopsy,True
+1939.100106,stool,True
+1939.SKBTI.0304,biopsy,False
+1939.100101,stool,True
+1939.SKBTI.0750,biopsy,True
+1939.100100,stool,True
+1939.SKBTI.0643,biopsy,False
+1939.SKBTI.1200,biopsy,False
+1939.121398,stool,True
+1939.SKBTI.1207,biopsy,True
+1939.SKBTI.0984,biopsy,True
+1939.SKBTI039,biopsy,False
+1939.SKBTI.1241,biopsy,False
+1939.SKBTI077,biopsy,True
+1939.SKBTI004,biopsy,True
+1939.MGH101003,biopsy,True
+1939.SKBTI.0497,biopsy,False
+1939.MGH105658,biopsy,True
+1939.100178,stool,True
+1939.SKBTI.0490,biopsy,True
+1939.SKBTI.0493,biopsy,False
+1939.SKBTI.0716,biopsy,True
+1939.SKBTI.0717,biopsy,True
+1939.100176,stool,True
+1939.SKBTI.0499,biopsy,True
+1939.100077,stool,True
+1939.SKBTI.0654,biopsy,True
+1939.100071,stool,True
+1939.100072,stool,True
+1939.SKBTI.0253.a,biopsy,False
+1939.121498,stool,True
+1939.121499,stool,True
+1939.100078,stool,True
+1939.SKBTI.0658,biopsy,False
+1939.SKBTI.0573,biopsy,True
+1939.SKBTI.1091,biopsy,True
+1939.SKBTI.1309,biopsy,False
+1939.SKBTI.1230,biopsy,True
+1939.SKBTI.0301,biopsy,True
+1939.SKBTI.1338,biopsy,True
+1939.SKBTI.0656,biopsy,False
+1939.SKBTI093,biopsy,False
+1939.SKBTI.1236,biopsy,False
+1939.SKBTI.0928,biopsy,True
+1939.SKBTI.0981,biopsy,True
+1939.SKBTI.0549,biopsy,False
+1939.SKBTI.0158,biopsy,True
+1939.SKBTI.0159,biopsy,True
+1939.SKBTI.0152,biopsy,False
+1939.SKBTI.0153,biopsy,True
+1939.SKBTI.0115.a,biopsy,True
+1939.SKBTI.0155,biopsy,True
+1939.SKBTI.0156,biopsy,False
+1939.100070,stool,True
+1939.122062,stool,True
+1939.122063,stool,True
+1939.SKBTI.1239,biopsy,True
+1939.SKBTI.1286,biopsy,False
+1939.SKBTI.0888,biopsy,True
+1939.SKBTI.0889,biopsy,True
+1939.SKBTI.1337,biopsy,True
+1939.SKBTI.0884,biopsy,True
+1939.121495,stool,True
+1939.SKBTI.0882,biopsy,True
+1939.SKBTI.0883,biopsy,True
+1939.SKBTI.1270,biopsy,False
+1939.SKBTI.0881,biopsy,True
+1939.122098.a,stool,True
+1939.SKBTI.1335,biopsy,False
+1939.MGH100695.b,biopsy,True
+1939.SKBTI.0253.b,biopsy,False
+1939.SKBTI.1344,biopsy,True
+1939.SKBTI.1311,biopsy,False
+1939.SKBTI.0934,biopsy,True
+1939.SKBTI.1331,biopsy,True
+1939.MGH100601.b,biopsy,True
+1939.SKBTI.0652,biopsy,True
+1939.SKBTI.0279,biopsy,True
+1939.SKBTI.0276,biopsy,True
+1939.SKBTI.0273,biopsy,True
+1939.SKBTI.1302,biopsy,True
+1939.SKBTI.1058,biopsy,False
+1939.SKBTI.0665,biopsy,True
+1939.SKBTI.0731.b,biopsy,True
+1939.SKBTI.1303,biopsy,True
+1939.SKBTI.1052,biopsy,False
+1939.SKBTI.1050,biopsy,True
+1939.SKBTI.1051,biopsy,True
+1939.SKBTI.1056,biopsy,True
+1939.SKBTI.1057,biopsy,False
+1939.SKBTI.1054,biopsy,True
+1939.SKBTI.1113,biopsy,True
+1939.SKBTI.1112,biopsy,True
+1939.SKBTI.0979,biopsy,False
+1939.121445,stool,True
+1939.121444,stool,True
+1939.121447,stool,True
+1939.121446,stool,False
+1939.121449,stool,True
+1939.121448,stool,True
+1939.MGH113669.b,biopsy,True
+1939.121279,stool,True
+1939.SKBTI.0976,biopsy,True
+1939.SKBTI.0974,biopsy,True
+1939.SKBTI.1307,biopsy,False
+1939.SKBTI.1283,biopsy,True
+1939.SKBTI.0872,biopsy,True
+1939.SKBTI.0871,biopsy,True
+1939.SKBTI.0870,biopsy,True
+1939.SKBTI.0877,biopsy,True
+1939.SKBTI019,biopsy,True
+1939.SKBTI.1175,biopsy,True
+1939.SKBTI.0878,biopsy,True
+1939.SKBTI.0758,biopsy,True
+1939.SKBTI078,biopsy,False
+1939.SKBTI.1204,biopsy,True
+1939.SKBTI.1126,biopsy,False
+1939.SKBTI.1343,biopsy,True
+1939.SKBTI060,biopsy,False
+1939.SKBTI.0756.b,biopsy,True
+1939.SKBTI.0929,biopsy,True
+1939.SKBTI.0264.a,biopsy,False
+1939.SKBTI.1263,biopsy,False
+1939.SKBTI070,biopsy,True
+1939.SKBTI.1029,biopsy,False
+1939.SKBTI.0263,biopsy,True
+1939.SKBTI.1178,biopsy,False
+1939.SKBTI.1025,biopsy,True
+1939.SKBTI.1024,biopsy,True
+1939.SKBTI.0260,biopsy,True
+1939.SKBTI054,biopsy,True
+1939.MGH101123,biopsy,True
+1939.MGH129951,biopsy,True
+1939.SKBTI.0754,biopsy,True
+1939.SKBTI.0755,biopsy,True
+1939.SKBTI.0613,biopsy,True
+1939.SKBTI.0611,biopsy,False
+1939.SKBTI.0098.a,biopsy,True
+1939.SKBTI.0615,biopsy,True
+1939.SKBTI.1201,biopsy,False
+1939.SKBTI.0362,biopsy,True
+1939.SKBTI009,biopsy,True
+1939.SKBTI086,biopsy,False
+1939.SKBTI.0107.a,biopsy,False
+1939.SKBTI.0282.a,biopsy,False
+1939.SKBTI.0120,biopsy,True
+1939.100190,stool,True
+1939.100191,stool,True
+1939.100196,stool,True
+1939.100197,stool,True
+1939.SKBTI.0127,biopsy,False
+1939.100195,stool,True
+1939.121952.a,stool,True
+1939.SKBTI.0128,biopsy,True
+1939.SKBTI.1077,biopsy,False
+1939.SKBTI.0621,biopsy,False
+1939.SKBTI057,biopsy,True
+1939.SKBTI.0117,biopsy,True
+1939.SKBTI.0910,biopsy,True
+1939.SKBTI.1079,biopsy,False
+1939.SKBTI.1173,biopsy,True
+1939.121181,stool,True
+1939.121182,stool,True
+1939.121183,stool,True
+1939.121185,stool,True
+1939.121186,stool,True
+1939.121187,stool,True
+1939.121188,stool,True
+1939.121189,stool,True
+1939.SKBTI.1078,biopsy,False
+1939.SKBTI066.b,biopsy,True
+1939.SKBTI.0626,biopsy,False
+1939.100003,stool,True
+1939.121212,stool,True
+1939.121213,stool,True
+1939.121215,stool,True
+1939.121216,stool,True
+1939.121217,stool,True
+1939.121218,stool,True
+1939.121219,stool,True
+1939.100109,stool,True
+1939.SKBTI.1232,biopsy,False
+1939.SKBTI096,biopsy,True
+1939.SKBTI.1231,biopsy,False
+1939.SKBTI.1237,biopsy,False
+1939.100228,stool,True
+1939.SKBTI.0544,biopsy,True
+1939.SKBTI.0541,biopsy,True
+1939.SKBTI.0136.a,biopsy,True
+1939.SKBTI.0277.a,biopsy,True
+1939.SKBTI.0448,biopsy,True
+1939.MGH103128,biopsy,True
+1939.121982,stool,True
+1939.121983,stool,True
+1939.SKBTI.1324,biopsy,True
+1939.SKBTI.1299,biopsy,False
+1939.122117.a,stool,True
+1939.SKBTI.0985,biopsy,True
+1939.SKBTI.0537,biopsy,False
+1939.100219,stool,True
+1939.122115.b,stool,True
+1939.122115.a,stool,True
+1939.SKBTI.0539,biopsy,True
+1939.SKBTI.0534,biopsy,False
+1939.100211,stool,True
+1939.SKBTI.0530,biopsy,False
+1939.100212,stool,True
+1939.SKBTI.0536,biopsy,True
+1939.100217,stool,True
+1939.100216,stool,True
