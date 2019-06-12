@@ -1,22 +1,17 @@
-# Tree-Cluster-Performance-Benefits
-Exploring the Downstream Performance benefits of the TreeCluster 
+# Downstream Performance Benefits of TreeCluster 
 
-Project Goals(Adding so we don't miss out anything) :- 
+## Introduction:
 
-1. Develop algorithmic techniques for your problem
-2. Improve scalability or accuracy of an exisiting technique
-3. Perform scientific comparisons of scalabitlity and accuracy of existing methods 
+Phylogenetic Clustering of data can serve as a powerful tool for studying medical infections and diseases. Data on the percentage of Disease-Causing microbes in every patient and a machine learning model can help classify a patient as potentially sick or healthy. In this report, we evaluate the performance of Tree-Cluster, an optimal clustering algorithm, based on its efficacy in downstream applications. 
 
+## Problem Definition:
 
-Progress:- 
-So far, added a shell script to be run from the main dir, that uses bash command line to filter only required field and extract a CSV with filetered metadata 
+[TreeCluster] [https://github.com/niemasd/TreeCluster] identifies the minimum number of leaf-clusters based on heterogeneity constraints and is useful for HIV transmission clustering. Here, we use stool samples of patients, with details of nucleotide percentages, to obtain Tree-Cluster Clustering result. This grouping is analyzed against machine learning models like Logistic Regression and Support Vector Machines with dependency on the threshold value for clustering also evaluated. Additionally, regressions are performed with clustering based on the maximum diameter of the cluster, sum of branch lengths and single linkage and with varying degrees of dimensionality reduction. The sparsity of the dataset implores us to attempt dimensionality reduction. We hypothesize that with either statistical/phylogenetic dimensionality reduction, we can filter the dataset to most relevant features with moderate accuracy predictions from our classification models. 
 
-https://github.com/niemasd/TreeCluster
+## Progress:
+The code has been made in Jupyter Notebooks to provide an element of interactivity. You can open the notebook and run each snippet individually to see a demonstration of the workflow. The datasets have been uploaded as well, along with the detailed results dump files for the various methods followed.
 
-Things to do by Saturday
-- Divide the data into training, val and test sets, choose the same seed to split for consistent comparison of results 
-80:10:10 split with 43 as seed
-- Run Linear Regression, SVM, Random forest models using all the features
-- Compute correlation between features
-- Combine features with high correlation
-- Use PCA for feature dimensionality reduction, lets try different orders 5k, 1k, 100, 10 and check model performance
+## Team Members:
+* Akash Boghani - aboghani@ucsd.edu
+* Inderjot Singh - isaggu@ucsd.edu
+* Raghav Subramanian - rksubram@ucsd.edu
