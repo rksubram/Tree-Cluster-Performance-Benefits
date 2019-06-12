@@ -1,0 +1,1766 @@
+###############################################################################
+Plain Log-reg
+
+Training accuracy:  1.0
+Validation accuracy:  0.730337078652
+Training Statistics
+ROC score = 1.0
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       1.00      1.00      1.00       187
+       True       1.00      1.00      1.00       525
+
+avg / total       1.00      1.00      1.00       712
+
+
+Confusion Matrix:
+[[187   0]
+ [  0 525]]
+
+
+Validation Statistics
+ROC score = 0.6514041514041514
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.55      0.46      0.50        26
+       True       0.79      0.84      0.82        63
+
+avg / total       0.72      0.73      0.72        89
+
+
+Confusion Matrix:
+[[12 14]
+ [10 53]]
+
+(1.0, 0.7303370786516854)
+##########################################################################################
+
+Single Linkage 500 : 491
+
+Training accuracy:  0.901685393258
+Validation accuracy:  0.685393258427
+Training Statistics
+ROC score = 0.8231627196333078
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.95      0.66      0.78       187
+       True       0.89      0.99      0.94       525
+
+avg / total       0.91      0.90      0.90       712
+
+
+Confusion Matrix:
+[[123  64]
+ [  6 519]]
+
+
+Validation Statistics
+ROC score = 0.5518925518925519
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.43      0.23      0.30        26
+       True       0.73      0.87      0.80        63
+
+avg / total       0.64      0.69      0.65        89
+
+
+Confusion Matrix:
+[[ 6 20]
+ [ 8 55]]
+(0.901685393258427, 0.6853932584269663)
+
+Test Statistics
+ROC score = 0.5064971751412429
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.35      0.23      0.28        30
+       True       0.67      0.78      0.72        59
+
+avg / total       0.56      0.60      0.57        89
+
+
+Confusion Matrix:
+[[ 7 23]
+ [13 46]]
+(0.901685393258427, 0.5955056179775281)
+
+#######################################################################################
+Single Linkage 250 : 249
+
+Training accuracy:  0.821629213483
+Validation accuracy:  0.629213483146
+Training Statistics
+ROC score = 0.6862490450725746
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.83      0.40      0.54       187
+       True       0.82      0.97      0.89       525
+
+avg / total       0.82      0.82      0.80       712
+
+
+Confusion Matrix:
+[[ 75 112]
+ [ 15 510]]
+
+
+Validation Statistics
+ROC score = 0.4896214896214896
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.27      0.15      0.20        26
+       True       0.70      0.83      0.76        63
+
+avg / total       0.58      0.63      0.59        89
+
+
+Confusion Matrix:
+[[ 4 22]
+ [11 52]]
+(0.8216292134831461, 0.6292134831460674)
+
+Test Statistics
+ROC score = 0.45706214689265534
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.18      0.07      0.10        30
+       True       0.64      0.85      0.73        59
+
+avg / total       0.49      0.58      0.52        89
+
+
+Confusion Matrix:
+[[ 2 28]
+ [ 9 50]]
+(0.8216292134831461, 0.5842696629213483)
+
+####################################################################################
+
+Single Linkage 100: 95
+
+Training accuracy:  0.77808988764
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.5861471861471861
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.87      0.18      0.30       187
+       True       0.77      0.99      0.87       525
+
+avg / total       0.80      0.78      0.72       712
+
+
+Confusion Matrix:
+[[ 34 153]
+ [  5 520]]
+
+
+Validation Statistics
+ROC score = 0.4795482295482295
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.17      0.04      0.06        26
+       True       0.70      0.92      0.79        63
+
+avg / total       0.54      0.66      0.58        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 5 58]]
+(0.7780898876404494, 0.6629213483146067)
+
+Testing Statistics
+ROC score = 0.5245762711864407
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.10      0.17        30
+       True       0.67      0.95      0.79        59
+
+avg / total       0.62      0.66      0.58        89
+
+
+Confusion Matrix:
+[[ 3 27]
+ [ 3 56]]
+(0.7780898876404494, 0.6629213483146067)
+
+####################################################################################
+
+Single Linkage 50: 48
+
+Training accuracy:  0.759831460674
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.5531092436974789
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.79      0.12      0.20       187
+       True       0.76      0.99      0.86       525
+
+avg / total       0.77      0.76      0.69       712
+
+
+Confusion Matrix:
+[[ 22 165]
+ [  6 519]]
+
+
+Validation Statistics
+ROC score = 0.4795482295482295
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.17      0.04      0.06        26
+       True       0.70      0.92      0.79        63
+
+avg / total       0.54      0.66      0.58        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 5 58]]
+(0.7598314606741573, 0.6629213483146067)
+
+Test Statistics
+ROC score = 0.5081920903954803
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.03      0.06        30
+       True       0.67      0.98      0.79        59
+
+avg / total       0.61      0.66      0.55        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 1 58]]
+(0.7598314606741573, 0.6629213483146067)
+
+####################################################################################
+
+Single Linkage 25: 25
+
+Training accuracy:  0.745786516854
+Validation accuracy:  0.685393258427
+Training Statistics
+ROC score = 0.5280926916221034
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.65      0.07      0.13       187
+       True       0.75      0.99      0.85       525
+
+avg / total       0.72      0.75      0.66       712
+
+
+Confusion Matrix:
+[[ 13 174]
+ [  7 518]]
+
+
+Validation Statistics
+ROC score = 0.4954212454212454
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.25      0.04      0.07        26
+       True       0.71      0.95      0.81        63
+
+avg / total       0.57      0.69      0.59        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 3 60]]
+(0.7457865168539326, 0.6853932584269663)
+
+Test Statistics
+ROC score = 0.5081920903954803
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.03      0.06        30
+       True       0.67      0.98      0.79        59
+
+avg / total       0.61      0.66      0.55        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 1 58]]
+(0.7457865168539326, 0.6629213483146067)
+
+####################################################################################
+
+Single Linkage 10: 6
+
+Training accuracy:  0.741573033708
+Validation accuracy:  0.696629213483
+Training Statistics
+ROC score = 0.5097428062133945
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.80      0.02      0.04       187
+       True       0.74      1.00      0.85       525
+
+avg / total       0.76      0.74      0.64       712
+
+
+Confusion Matrix:
+[[  4 183]
+ [  1 524]]
+
+
+Validation Statistics
+ROC score = 0.49206349206349204
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.00      0.00      0.00        26
+       True       0.70      0.98      0.82        63
+
+avg / total       0.50      0.70      0.58        89
+
+
+Confusion Matrix:
+[[ 0 26]
+ [ 1 62]]
+(0.7415730337078652, 0.6966292134831461)
+
+
+Test Statistics
+ROC score = 0.5
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.00      0.00      0.00        30
+       True       0.66      1.00      0.80        59
+
+avg / total       0.44      0.66      0.53        89
+
+
+Confusion Matrix:
+[[ 0 30]
+ [ 0 59]]
+
+(0.7415730337078652, 0.6629213483146067)
+
+##########################################################################################
+
+Sum Branch 500 : 499
+
+Training accuracy:  0.956460674157
+Validation accuracy:  0.674157303371
+Training Statistics
+ROC score = 0.9222765469824294
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.98      0.85      0.91       187
+       True       0.95      0.99      0.97       525
+
+avg / total       0.96      0.96      0.96       712
+
+
+Confusion Matrix:
+[[159  28]
+ [  3 522]]
+
+
+Validation Statistics
+ROC score = 0.589133089133089
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.43      0.38      0.41        26
+       True       0.76      0.79      0.78        63
+
+avg / total       0.66      0.67      0.67        89
+
+
+Confusion Matrix:
+[[10 16]
+ [13 50]]
+(0.9564606741573034, 0.6741573033707865)
+
+Test Statistics
+ROC score = 0.447457627118644
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.25      0.20      0.22        30
+       True       0.63      0.69      0.66        59
+
+avg / total       0.50      0.53      0.51        89
+
+
+Confusion Matrix:
+[[ 6 24]
+ [18 41]]
+(0.9564606741573034, 0.5280898876404494)
+
+##########################################################################################
+
+Sum Branch 250: 249
+
+Training accuracy:  0.877808988764
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.7914795008912656
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.89      0.61      0.72       187
+       True       0.88      0.97      0.92       525
+
+avg / total       0.88      0.88      0.87       712
+
+
+Confusion Matrix:
+[[114  73]
+ [ 14 511]]
+
+
+Validation Statistics
+ROC score = 0.5811965811965811
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.42      0.38      0.40        26
+       True       0.75      0.78      0.77        63
+
+avg / total       0.66      0.66      0.66        89
+
+
+Confusion Matrix:
+[[10 16]
+ [14 49]]
+(0.8778089887640449, 0.6629213483146067)
+
+Test Statistics
+ROC score = 0.5740112994350283
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.27      0.36        30
+       True       0.70      0.88      0.78        59
+
+avg / total       0.65      0.67      0.64        89
+
+
+Confusion Matrix:
+[[ 8 22]
+ [ 7 52]]
+(0.8778089887640449, 0.6741573033707865)
+
+##########################################################################################
+
+Sum Branch 100: 101
+
+Training accuracy:  0.804775280899
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.6472778202189967
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.84      0.32      0.46       187
+       True       0.80      0.98      0.88       525
+
+avg / total       0.81      0.80      0.77       712
+
+
+Confusion Matrix:
+[[ 59 128]
+ [ 11 514]]
+
+
+Validation Statistics
+ROC score = 0.536019536019536
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.38      0.23      0.29        26
+       True       0.73      0.84      0.78        63
+
+avg / total       0.62      0.66      0.64        89
+
+
+Confusion Matrix:
+[[ 6 20]
+ [10 53]]
+(0.8047752808988764, 0.6629213483146067)
+
+Test Statistics
+ROC score = 0.44887005649717515
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.11      0.03      0.05        30
+       True       0.64      0.86      0.73        59
+
+avg / total       0.46      0.58      0.50        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 8 51]]
+(0.8047752808988764, 0.5842696629213483)
+
+##########################################################################################
+
+Sum Branch 50: 53
+
+Training accuracy:  0.759831460674
+Validation accuracy:  0.685393258427
+Training Statistics
+ROC score = 0.5513878278584161
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.81      0.11      0.20       187
+       True       0.76      0.99      0.86       525
+
+avg / total       0.77      0.76      0.69       712
+
+
+Confusion Matrix:
+[[ 21 166]
+ [  5 520]]
+
+
+Validation Statistics
+ROC score = 0.5067155067155067
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.33      0.08      0.12        26
+       True       0.71      0.94      0.81        63
+
+avg / total       0.60      0.69      0.61        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 4 59]]
+(0.7598314606741573, 0.6853932584269663)
+
+Test Statistics
+ROC score = 0.4661016949152542
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.00      0.00      0.00        30
+       True       0.65      0.93      0.76        59
+
+avg / total       0.43      0.62      0.51        89
+
+
+Confusion Matrix:
+[[ 0 30]
+ [ 4 55]]
+(0.7598314606741573, 0.6179775280898876)
+
+
+##########################################################################################
+
+Sum Branch 25: 26
+
+Training accuracy:  0.752808988764
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.5380188439011968
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.76      0.09      0.15       187
+       True       0.75      0.99      0.86       525
+
+avg / total       0.75      0.75      0.67       712
+
+
+Confusion Matrix:
+[[ 16 171]
+ [  5 520]]
+
+Validation Statistics
+ROC score = 0.5146520146520146
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.40      0.08      0.13        26
+       True       0.71      0.95      0.82        63
+
+avg / total       0.62      0.70      0.62        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 3 60]]
+(0.7528089887640449, 0.6966292134831461)
+
+Test Statistics
+ROC score = 0.5081920903954803
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.03      0.06        30
+       True       0.67      0.98      0.79        59
+
+avg / total       0.61      0.66      0.55        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 1 58]]
+(0.7528089887640449, 0.6629213483146067)
+
+##########################################################################################
+
+Sum Branch 10: 10
+
+Training accuracy:  0.73595505618
+Validation accuracy:  0.707865168539
+Training Statistics
+ROC score = 0.5059332824038706
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.44      0.02      0.04       187
+       True       0.74      0.99      0.85       525
+
+avg / total       0.66      0.74      0.64       712
+
+
+Confusion Matrix:
+[[  4 183]
+ [  5 520]]
+
+
+Validation Statistics
+ROC score = 0.5112942612942613
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.04      0.07        26
+       True       0.71      0.98      0.83        63
+
+avg / total       0.65      0.71      0.61        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 1 62]]
+(0.7359550561797753, 0.7078651685393258)
+
+
+Test Statistics
+ROC score = 0.4830508474576271
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.00      0.00      0.00        30
+       True       0.66      0.97      0.78        59
+
+avg / total       0.43      0.64      0.52        89
+
+
+Confusion Matrix:
+[[ 0 30]
+ [ 2 57]]
+(0.7359550561797753, 0.6404494382022472)
+
+
+##########################################################################################
+
+Max 500: 500
+
+Training accuracy:  0.921348314607
+Validation accuracy:  0.696629213483
+Training Statistics
+ROC score = 0.8605958747135217
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.96      0.73      0.83       187
+       True       0.91      0.99      0.95       525
+
+avg / total       0.92      0.92      0.92       712
+
+
+Confusion Matrix:
+[[137  50]
+ [  6 519]]
+
+
+Validation Statistics
+ROC score = 0.605006105006105
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.48      0.38      0.43        26
+       True       0.76      0.83      0.79        63
+
+avg / total       0.68      0.70      0.69        89
+
+
+Confusion Matrix:
+[[10 16]
+ [11 52]]
+(0.9213483146067416, 0.6966292134831461)
+
+Test Statistics
+ROC score = 0.5149717514124293
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.37      0.23      0.29        30
+       True       0.67      0.80      0.73        59
+
+avg / total       0.57      0.61      0.58        89
+
+
+Confusion Matrix:
+[[ 7 23]
+ [12 47]]
+(0.9213483146067416, 0.6067415730337079)
+
+
+##########################################################################################
+
+Max 250: 249
+
+Training accuracy:  0.824438202247
+Validation accuracy:  0.685393258427
+Training Statistics
+ROC score = 0.6915966386554622
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.84      0.41      0.55       187
+       True       0.82      0.97      0.89       525
+
+avg / total       0.83      0.82      0.80       712
+
+
+Confusion Matrix:
+[[ 77 110]
+ [ 15 510]]
+
+
+Validation Statistics
+ROC score = 0.5518925518925519
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.43      0.23      0.30        26
+       True       0.73      0.87      0.80        63
+
+avg / total       0.64      0.69      0.65        89
+
+
+Confusion Matrix:
+[[ 6 20]
+ [ 8 55]]
+(0.824438202247191, 0.6853932584269663)
+
+Test Statistics
+ROC score = 0.5240112994350282
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.42      0.17      0.24        30
+       True       0.68      0.88      0.76        59
+
+avg / total       0.59      0.64      0.59        89
+
+
+Confusion Matrix:
+[[ 5 25]
+ [ 7 52]]
+(0.824438202247191, 0.6404494382022472)
+
+##########################################################################################
+
+Max 100: 101
+
+Training accuracy:  0.776685393258
+Validation accuracy:  0.629213483146
+Training Statistics
+ROC score = 0.5989661319073084
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.75      0.22      0.35       187
+       True       0.78      0.97      0.87       525
+
+avg / total       0.77      0.78      0.73       712
+
+
+Confusion Matrix:
+[[ 42 145]
+ [ 14 511]]
+
+
+Validation Statistics
+ROC score = 0.467032967032967
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.18      0.08      0.11        26
+       True       0.69      0.86      0.77        63
+
+avg / total       0.54      0.63      0.57        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 9 54]]
+(0.776685393258427, 0.6292134831460674)
+
+
+Test Statistics
+ROC score = 0.4909604519774011
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.29      0.07      0.11        30
+       True       0.66      0.92      0.77        59
+
+avg / total       0.53      0.63      0.54        89
+
+
+Confusion Matrix:
+[[ 2 28]
+ [ 5 54]]
+(0.776685393258427, 0.6292134831460674)
+
+##########################################################################################
+
+Max 50: 50
+
+Training accuracy:  0.759831460674
+Validation accuracy:  0.685393258427
+Training Statistics
+ROC score = 0.5582734912146676
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.74      0.13      0.23       187
+       True       0.76      0.98      0.86       525
+
+avg / total       0.75      0.76      0.69       712
+
+
+Confusion Matrix:
+[[ 25 162]
+ [  9 516]]
+
+
+Validation Statistics
+ROC score = 0.5067155067155067
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.33      0.08      0.12        26
+       True       0.71      0.94      0.81        63
+
+avg / total       0.60      0.69      0.61        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 4 59]]
+(0.7598314606741573, 0.6853932584269663)
+
+Training accuracy:  0.759831460674
+Validation accuracy:  0.640449438202
+Training Statistics
+ROC score = 0.5582734912146676
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.74      0.13      0.23       187
+       True       0.76      0.98      0.86       525
+
+avg / total       0.75      0.76      0.69       712
+
+
+Confusion Matrix:
+[[ 25 162]
+ [  9 516]]
+
+
+Test Statistics
+ROC score = 0.49943502824858754
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.33      0.07      0.11        30
+       True       0.66      0.93      0.77        59
+
+avg / total       0.55      0.64      0.55        89
+
+
+Confusion Matrix:
+[[ 2 28]
+ [ 4 55]]
+(0.7598314606741573, 0.6404494382022472)
+
+##########################################################################################
+
+Max 25:33
+
+Training accuracy:  0.755617977528
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 0.5416450216450217
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.81      0.09      0.16       187
+       True       0.75      0.99      0.86       525
+
+avg / total       0.77      0.76      0.67       712
+
+
+Confusion Matrix:
+[[ 17 170]
+ [  4 521]]
+
+
+Validation Statistics
+ROC score = 0.4795482295482295
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.17      0.04      0.06        26
+       True       0.70      0.92      0.79        63
+
+avg / total       0.54      0.66      0.58        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 5 58]]
+(0.7556179775280899, 0.6629213483146067)
+
+Test Statistics
+ROC score = 0.4827683615819209
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.20      0.03      0.06        30
+       True       0.65      0.93      0.77        59
+
+avg / total       0.50      0.63      0.53        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 4 55]]
+(0.7556179775280899, 0.6292134831460674)
+
+##########################################################################################
+
+Max 10: 10
+
+Training accuracy:  0.744382022472
+Validation accuracy:  0.696629213483
+Training Statistics
+ROC score = 0.5150903997962822
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.86      0.03      0.06       187
+       True       0.74      1.00      0.85       525
+
+avg / total       0.77      0.74      0.64       712
+
+
+Confusion Matrix:
+[[  6 181]
+ [  1 524]]
+
+
+Validation Statistics
+ROC score = 0.5033577533577533
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.33      0.04      0.07        26
+       True       0.71      0.97      0.82        63
+
+avg / total       0.60      0.70      0.60        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 2 61]]
+(0.7443820224719101, 0.6966292134831461)
+
+Test Statistics
+ROC score = 0.4830508474576271
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.00      0.00      0.00        30
+       True       0.66      0.97      0.78        59
+
+avg / total       0.43      0.64      0.52        89
+
+
+Confusion Matrix:
+[[ 0 30]
+ [ 2 57]]
+(0.7443820224719101, 0.6404494382022472)
+
+##########################################################################################
+
+SVD 500
+
+Training accuracy:  1.0
+Validation accuracy:  0.719101123596
+Training Statistics
+ROC score = 1.0
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       1.00      1.00      1.00       187
+       True       1.00      1.00      1.00       525
+
+avg / total       1.00      1.00      1.00       712
+
+
+Confusion Matrix:
+[[187   0]
+ [  0 525]]
+
+
+Validation Statistics
+ROC score = 0.6208791208791209
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.38      0.44        26
+       True       0.77      0.86      0.81        63
+
+avg / total       0.70      0.72      0.70        89
+
+
+Confusion Matrix:
+[[10 16]
+ [ 9 54]]
+Training accuracy:  1.0
+Validation accuracy:  0.730337078652
+
+Test Statistics
+ROC score = 0.6819209039548023
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.62      0.53      0.57        30
+       True       0.78      0.83      0.80        59
+
+avg / total       0.72      0.73      0.73        89
+
+
+Confusion Matrix:
+[[16 14]
+ [10 49]]
+(1.0, 0.7303370786516854)
+
+##########################################################################################
+
+PCA 500
+
+Training accuracy:  1.0
+Validation accuracy:  0.662921348315
+Training Statistics
+ROC score = 1.0
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       1.00      1.00      1.00       187
+       True       1.00      1.00      1.00       525
+
+avg / total       1.00      1.00      1.00       712
+
+
+Confusion Matrix:
+[[187   0]
+ [  0 525]]
+
+
+Validation Statistics
+ROC score = 0.6037851037851039
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.43      0.46      0.44        26
+       True       0.77      0.75      0.76        63
+
+avg / total       0.67      0.66      0.67        89
+
+
+Confusion Matrix:
+[[12 14]
+ [16 47]]
+
+Test Statistics
+ROC score = 0.6562146892655367
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.57      0.55        30
+       True       0.77      0.75      0.76        59
+
+avg / total       0.69      0.69      0.69        89
+
+
+Confusion Matrix:
+[[17 13]
+ [15 44]]
+(1.0, 0.6853932584269663)
+
+##########################################################################################
+
+SVD 250
+
+Training accuracy:  0.991573033708
+Validation accuracy:  0.76404494382
+Training Statistics
+ROC score = 0.9891214667685256
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.98      0.98      0.98       187
+       True       0.99      0.99      0.99       525
+
+avg / total       0.99      0.99      0.99       712
+
+
+Confusion Matrix:
+[[184   3]
+ [  3 522]]
+
+
+Validation Statistics
+ROC score = 0.6639194139194139
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.65      0.42      0.51        26
+       True       0.79      0.90      0.84        63
+
+avg / total       0.75      0.76      0.75        89
+
+
+Confusion Matrix:
+[[11 15]
+ [ 6 57]]
+
+Test Statistics
+ROC score = 0.5816384180790961
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.48      0.37      0.42        30
+       True       0.71      0.80      0.75        59
+
+avg / total       0.63      0.65      0.64        89
+
+
+Confusion Matrix:
+[[11 19]
+ [12 47]]
+(0.9915730337078652, 0.651685393258427)
+
+##########################################################################################
+
+PCA 250
+
+Training accuracy:  0.943820224719
+Validation accuracy:  0.730337078652
+Training Statistics
+ROC score = 0.925755029284441
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.90      0.89      0.89       187
+       True       0.96      0.96      0.96       525
+
+avg / total       0.94      0.94      0.94       712
+
+
+Confusion Matrix:
+[[166  21]
+ [ 19 506]]
+
+
+Validation Statistics
+ROC score = 0.6965811965811967
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.62      0.57        26
+       True       0.83      0.78      0.80        63
+
+avg / total       0.74      0.73      0.74        89
+
+
+Confusion Matrix:
+[[16 10]
+ [14 49]]
+Training accuracy:  0.943820224719
+Validation accuracy:  0.662921348315
+
+Test Statistics
+ROC score = 0.6392655367231639
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.57      0.53        30
+       True       0.76      0.71      0.74        59
+
+avg / total       0.67      0.66      0.67        89
+
+
+Confusion Matrix:
+[[17 13]
+ [17 42]]
+(0.9438202247191011, 0.6629213483146067)
+
+##########################################################################################
+
+SVD 100
+
+Training accuracy:  0.839887640449
+Validation accuracy:  0.719101123596
+Training Statistics
+ROC score = 0.7606009676597911
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.74      0.59      0.66       187
+       True       0.87      0.93      0.90       525
+
+avg / total       0.83      0.84      0.83       712
+
+
+Confusion Matrix:
+[[111  76]
+ [ 38 487]]
+
+
+Validation Statistics
+ROC score = 0.6208791208791209
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.38      0.44        26
+       True       0.77      0.86      0.81        63
+
+avg / total       0.70      0.72      0.70        89
+
+
+Confusion Matrix:
+[[10 16]
+ [ 9 54]]
+
+Test Statistics
+ROC score = 0.6485875706214689
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.58      0.47      0.52        30
+       True       0.75      0.83      0.79        59
+
+avg / total       0.70      0.71      0.70        89
+
+
+Confusion Matrix:
+[[14 16]
+ [10 49]]
+(0.8398876404494382, 0.7078651685393258)
+##########################################################################################
+
+PCA 100
+
+Training accuracy:  0.834269662921
+Validation accuracy:  0.730337078652
+Training Statistics
+ROC score = 0.7395772854596383
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.76      0.54      0.63       187
+       True       0.85      0.94      0.89       525
+
+avg / total       0.83      0.83      0.82       712
+
+
+Confusion Matrix:
+[[101  86]
+ [ 32 493]]
+
+
+Validation Statistics
+ROC score = 0.6288156288156288
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.56      0.38      0.45        26
+       True       0.77      0.87      0.82        63
+
+avg / total       0.71      0.73      0.71        89
+
+
+Confusion Matrix:
+[[10 16]
+ [ 8 55]]
+Training accuracy:  0.834269662921
+Validation accuracy:  0.752808988764
+
+Test Statistics
+ROC score = 0.7070621468926553
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.65      0.57      0.61        30
+       True       0.79      0.85      0.82        59
+
+avg / total       0.75      0.75      0.75        89
+
+
+Confusion Matrix:
+[[17 13]
+ [ 9 50]]
+(0.8342696629213483, 0.7528089887640449)
+
+##########################################################################################
+
+SVD 50
+
+Training accuracy:  0.773876404494
+Validation accuracy:  0.707865168539
+Training Statistics
+ROC score = 0.6091112808759868
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.68      0.26      0.38       187
+       True       0.78      0.96      0.86       525
+
+avg / total       0.76      0.77      0.73       712
+
+
+Confusion Matrix:
+[[ 49 138]
+ [ 23 502]]
+
+
+Validation Statistics
+ROC score = 0.5338827838827839
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.12      0.19        26
+       True       0.72      0.95      0.82        63
+
+avg / total       0.66      0.71      0.64        89
+
+
+Confusion Matrix:
+[[ 3 23]
+ [ 3 60]]
+Training accuracy:  0.773876404494
+Validation accuracy:  0.719101123596
+
+Test Statistics
+ROC score = 0.5997175141242937
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.78      0.23      0.36        30
+       True       0.71      0.97      0.82        59
+
+avg / total       0.73      0.72      0.66        89
+
+
+Confusion Matrix:
+[[ 7 23]
+ [ 2 57]]
+(0.773876404494382, 0.7191011235955056)
+##########################################################################################
+
+PCA 50
+
+Training accuracy:  0.719101123596
+Validation accuracy:  0.741573033708
+Training Statistics
+ROC score = 0.6924675324675325
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.47      0.64      0.54       187
+       True       0.85      0.75      0.80       525
+
+avg / total       0.75      0.72      0.73       712
+
+
+Confusion Matrix:
+[[119  68]
+ [132 393]]
+
+
+Validation Statistics
+ROC score = 0.7158119658119657
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.55      0.65      0.60        26
+       True       0.84      0.78      0.81        63
+
+avg / total       0.76      0.74      0.75        89
+
+
+Confusion Matrix:
+[[17  9]
+ [14 49]]
+
+Test Statistics
+ROC score = 0.7652542372881356
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.68      0.70      0.69        30
+       True       0.84      0.83      0.84        59
+
+avg / total       0.79      0.79      0.79        89
+
+
+Confusion Matrix:
+[[21  9]
+ [10 49]]
+(0.7191011235955056, 0.7865168539325843)
+
+##########################################################################################
+
+SVD 25
+
+Training accuracy:  0.744382022472
+Validation accuracy:  0.730337078652
+Training Statistics
+ROC score = 0.5529615482556659
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.55      0.15      0.24       187
+       True       0.76      0.96      0.85       525
+
+avg / total       0.70      0.74      0.69       712
+
+
+Confusion Matrix:
+[[ 28 159]
+ [ 23 502]]
+
+
+Validation Statistics
+ROC score = 0.5497557997557998
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.75      0.12      0.20        26
+       True       0.73      0.98      0.84        63
+
+avg / total       0.74      0.73      0.65        89
+
+
+Confusion Matrix:
+[[ 3 23]
+ [ 1 62]]
+
+
+Test Statistics
+ROC score = 0.557909604519774
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.62      0.17      0.26        30
+       True       0.69      0.95      0.80        59
+
+avg / total       0.67      0.69      0.62        89
+
+
+Confusion Matrix:
+[[ 5 25]
+ [ 3 56]]
+(0.7443820224719101, 0.6853932584269663)
+##########################################################################################
+
+PCA 25
+
+Training accuracy:  0.748595505618
+Validation accuracy:  0.719101123596
+Training Statistics
+ROC score = 0.5609829386299974
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.57      0.17      0.26       187
+       True       0.76      0.96      0.85       525
+
+avg / total       0.71      0.75      0.69       712
+
+
+Confusion Matrix:
+[[ 31 156]
+ [ 23 502]]
+
+
+Validation Statistics
+ROC score = 0.5305250305250304
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.67      0.08      0.14        26
+       True       0.72      0.98      0.83        63
+
+avg / total       0.71      0.72      0.63        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 1 62]]
+
+
+Test Statistics
+ROC score = 0.5663841807909604
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.71      0.17      0.27        30
+       True       0.70      0.97      0.81        59
+
+avg / total       0.70      0.70      0.63        89
+
+
+Confusion Matrix:
+[[ 5 25]
+ [ 2 57]]
+(0.7485955056179775, 0.6966292134831461)
+##########################################################################################
+
+SVD 10
+
+Training accuracy:  0.738764044944
+Validation accuracy:  0.707865168539
+Training Statistics
+ROC score = 0.5181665393430099
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.53      0.05      0.10       187
+       True       0.74      0.98      0.85       525
+
+avg / total       0.69      0.74      0.65       712
+
+
+Confusion Matrix:
+[[ 10 177]
+ [  9 516]]
+
+
+Validation Statistics
+ROC score = 0.5112942612942613
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.50      0.04      0.07        26
+       True       0.71      0.98      0.83        63
+
+avg / total       0.65      0.71      0.61        89
+
+
+Confusion Matrix:
+[[ 1 25]
+ [ 1 62]]
+
+Test Statistics
+ROC score = 0.5166666666666666
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       1.00      0.03      0.06        30
+       True       0.67      1.00      0.80        59
+
+avg / total       0.78      0.67      0.55        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 0 59]]
+(0.7387640449438202, 0.6741573033707865)
+
+##########################################################################################
+
+PCA 10
+
+Training accuracy:  0.740168539326
+Validation accuracy:  0.719101123596
+Training Statistics
+ROC score = 0.5208403361344538
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.55      0.06      0.11       187
+       True       0.75      0.98      0.85       525
+
+avg / total       0.69      0.74      0.65       712
+
+
+Confusion Matrix:
+[[ 11 176]
+ [  9 516]]
+
+
+Validation Statistics
+ROC score = 0.5305250305250304
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       0.67      0.08      0.14        26
+       True       0.72      0.98      0.83        63
+
+avg / total       0.71      0.72      0.63        89
+
+
+Confusion Matrix:
+[[ 2 24]
+ [ 1 62]]
+
+Test Statistics
+ROC score = 0.5166666666666666
+
+Classification Report:
+             precision    recall  f1-score   support
+
+      False       1.00      0.03      0.06        30
+       True       0.67      1.00      0.80        59
+
+avg / total       0.78      0.67      0.55        89
+
+
+Confusion Matrix:
+[[ 1 29]
+ [ 0 59]]
+(0.7401685393258427, 0.6741573033707865)
