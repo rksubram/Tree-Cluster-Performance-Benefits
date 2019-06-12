@@ -652,7 +652,7 @@ def someiter_search(tree_file,threshold_val,threshold_free,method,support,expect
 
 def search_best_thresh(threshold_val_iter,max_iter,max_iter_cont,expected_num_clusters,tree_file,threshold_free,method,support):
 #threshold_val_iter,expected_num_clusters,tree_file="phylogeny.nwk",threshold_free=None,method='avg_clade',support=float('-inf'),max_iter = 10):
-    thresh_list = list(np.random.uniform(0,1,threshold_val_iter))
+    thresh_list = list(np.random.uniform(3,8,threshold_val_iter))
 
     for val in thresh_list:
         best_min_loss = expected_num_clusters
@@ -673,7 +673,7 @@ def return_best_cluster(initvalue,coarsevalue,finevalue,n_clust,inp,tf,method,su
 
     val = search_best_thresh(initvalue,coarsevalue,finevalue,n_clust,inp,tf,method,support)
 
-    return run_TreeCluster(val, inp, tf,  method, support)
+    return run_TreeCluster(val, inp, tf,  method, support), val
 
 if __name__ == "__main__":
     # parse user arguments
