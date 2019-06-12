@@ -563,53 +563,29 @@ METHODS = {
     'leaf_dist_avg': leaf_dist_avg
 }
 THRESHOLDFREE = {'argmax_clusters':argmax_clusters}
-if __name__ == "__main__":
-    # parse user arguments
-    import argparse
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('-i', '--input', required=False, type=str, default='stdin', help="Input Tree File")
-    parser.add_argument('-o', '--output', required=False, type=str, default='stdout', help="Output File")
-    parser.add_argument('-t', '--threshold', required=True, type=float, help="Length Threshold")
-    parser.add_argument('-s', '--support', required=False, type=float, default=float('-inf'), help="Branch Support Threshold")
-    parser.add_argument('-m', '--method', required=False, type=str, default='max', help="Clustering Method (options: %s)" % ', '.join(sorted(METHODS.keys())))
-    parser.add_argument('-tf', '--threshold_free', required=False, type=str, default=None, help="Threshold-Free Approach (options: %s)" % ', '.join(sorted(THRESHOLDFREE.keys())))
-    args = parser.parse_args()
-    assert args.method.lower() in METHODS, "ERROR: Invalid method: %s" % args.method
-    assert args.threshold_free is None or args.threshold_free in THRESHOLDFREE, "ERROR: Invalid threshold-free approach: %s" % args.threshold_free
-    assert args.threshold >= 0, "ERROR: Length threshold must be at least 0"
-    assert args.support >= 0 or args.support == float('-inf'), "ERROR: Branch support must be at least 0"
-    if args.input == 'stdin':
-        from sys import stdin; infile = stdin
-    elif args.input.lower().endswith('.gz'):
-        from gzip import open as gopen; infile = gopen(args.input)
-    else:
-        infile = open(args.input)
-    if args.output == 'stdout':
-        from sys import stdout; outfile = stdout
-    else:
-        outfile = open(args.output,'w')
-    trees = list()
-    for line in infile:
-        if isinstance(line,bytes):
-            l = line.decode().strip()
-        else:
-            l = line.strip()
-        l = 'phylogeny.nwk'
-        trees.append(read_tree_newick(l))
 
+def run_TreeCluster(threshold, tree_file, threshold_free, method, support):
+    trees = []
+    trees.append(read_tree_newick(tree_file))
     # run algorithm
     for t,tree in enumerate(trees):
-        if args.threshold_free is None:
-            clusters = METHODS[args.method.lower()](tree,args.threshold,args.support)
+        if threshold_free is None:
+            clusters = METHODS[method.lower()](tree,threshold,support)
         else:
-            clusters = THRESHOLDFREE[args.threshold_free](METHODS[args.method.lower()],tree,args.threshold,args.support)
-        outfile.write('SequenceName\tClusterNumber\n')
-        cluster_num = 1
-        for cluster in clusters:
-            if len(cluster) == 1:
-                outfile.write('%s\t-1\n' % list(cluster)[0])
-            else:
-                for l in cluster:
-                    outfile.write('%s\t%d\n' % (l,cluster_num))
-                cluster_num += 1
-    outfile.close()
+            clusters = THRESHOLDFREE[threshold_free](METHODS[method.lower()],tree,threshold,support)
+        
+    return clusters
+    """
+            print('SequenceName\tClusterNumber\n')
+
+            cluster_num = 1
+            cluster_labels=[]
+            for cluster in clusters:
+                if len(cluster) == 1:
+                    return list(cluster)[0]
+                else:
+                    for l in cluster:
+                        cluster_labels.append((l,cluster_num))
+                    cluster_num += 1
+                    return cluster_labels 
+    """
